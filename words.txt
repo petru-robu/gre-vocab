@@ -1,0 +1,329 @@
+# GRE vocabulary
+# Format: word = definition
+
+abate = to become less intense; diminish
+prolific = producing a large amount
+equivocal = ambiguous; open to more than one interpretation
+censure = strong criticism or official disapproval
+castigate = criticize or reprimand severely
+derivative in quality = lesser copy of something, unoriginal
+
+providential = smth that happens at the right time, lucky, opportune, result of divine intervention
+
+eminence = fame and superiority, highly recognized success
+
+notoriety = widely known or famous but for something negative, bad or scandalous
+
+precarious = a situation or state that is not secure; **uncertain** or risky; physically unstable - real meaning
+
+relentlessly = something persistent, without stopping
+
+technocrat = technical expert
+
+ascertained = find something out for certain, make absolutely sure of it
+
+virtual = almost completely, for all practical purposes
+
+harbingers = a sign of the future, a forerunner
+
+stark = bare or severe in appearance; sharply clear or obvious; complete or absolute
+
+was rife with = full of something, abundant (but in a bad sense)
+
+phony = not genuine, insincere
+
+unprincipled = lacking moral standards
+
+fortuitous = something that happens by accident
+
+ascribe = attribute something to a specific cause
+
+milieu = an enviroment or setting
+
+reverence = deep or profund respect
+
+fastidiousness = meticulous attention to detail, extreme concern to cleanliness
+
+iconoclasm = chalenging the status quo, actively rejecting widely accepted beliefs
+
+deceptive = describes smth that give and impression or appearence that is different from the truth
+
+dissimilar = not alike, laking resemblance
+
+dissimulate = to conceal, hide the truth, diguise your thoughts, feelings
+
+disseminate = spread widely / scatter / broadcast or communicate information
+
+bogus = fake, false, not genuine
+
+acerbic = sharp and biting, highly critical, sarcastic
+
+scathing = harshly critical, bitterly severe
+
+miserliness = extremely reluctant to spend money
+
+stinginess = being cheap, or reluctant to spend money
+
+thrift = careful, efficient with money and avoiding waste
+
+frugality = being careful, intentional, and economical with money
+
+diffidence = shyness, timidity, lack of self-confidence
+
+involved = with the meaning of a complicate, intricate process 
+
+tenuous = very weak, fragile, slight, having little substance
+
+florid = excessively ornate
+
+ephemeral = lasting a very short time
+
+inordinately = excessively, unreasonably great in amount
+
+mercurial = smth that is subject to sudden, unpredictable changes
+
+wariness = caution and awareness
+
+belies = means to give a false impression of something
+
+frivolity = a lack of seriousness; lightheartedness or silly behavior
+
+taciturnity = being reserved or uncommunicative in speech
+
+prolixity = using far too many words in speech
+
+pelludicity = exceptional clarity
+
+thorny = highly complex, difficult to understand
+
+penitential austerity = Severe self-discipline, deprivation of comforts
+
+impetuous = acting or done quickly and without thought or care
+
+bolster = to support, strengthen
+
+extraneous = not constituing a vital element or part
+
+attainment = an ability that has been acquired by training
+
+rumination = deep prolonged an focused thought
+
+prosaic = dull, ordinary or mundane
+
+mundane = lacking interest
+
+aloof = not friendly, cool and distant
+
+placid = calm, peaceful, not easily upset
+
+restive = unable to keep still or silent; difficult to control
+
+skittish = excitable, easily scared
+
+tranquil = calm, peaceful, free from disturbance
+
+vociferous = expressing strong feelings or complaints
+
+circumscribed = restricted, limited or confined
+
+indecorous = improper, violating generally accepted standards of polite behaviour
+
+abash = embarrass or cause to feel awkward
+
+abate = become less intense or widespread
+
+abdicate = renounce or relinquish a throne, right, or responsibility
+
+aberrant = departing from an accepted standard
+
+abeyance = a state of temporary disuse or suspension
+
+abject = extremely bad, unpleasant, and degrading
+
+abjure = solemnly renounce or reject a belief or claim
+
+abscission = the action of cutting off, typically a sudden termination
+
+abscond = leave hurriedly and secretly, typically to escape custody
+
+absolve = set or declare free from blame, guilt, or responsibility
+
+abstemious = not self-indulgent, especially when eating and drinking
+
+abstruse = difficult to understand; obscure
+
+accede = assent or agree to a demand, request, or treaty
+
+acerbic = sharp and scathing in temper, mood, or tone
+
+acme = the point at which someone or something is best, perfect, or most successful
+
+acquiesce = accept something reluctantly but without protest
+
+acrid = unpleasantly bitter or pungent
+
+acumen = the ability to make good judgments and quick decisions
+
+acute = present or experienced to a severe or intense degree
+
+adamantly = refusing to be persuaded or to change one's mind
+
+adept = very skilled or proficient at something
+
+adhere = stick fast to a surface or substance
+
+admonish = warn or reprimand someone firmly
+
+adroit = clever or skillful in using the hands or mind
+
+adulation = excessive admiration or praise
+
+aesthetic = concerned with beauty or the appreciation of beauty
+
+aggrandize = increase the power, status, or wealth of
+
+alacrity = brisk and cheerful readiness
+
+alchemy = a seemingly magical process of transformation
+
+alloy = a metal made by combining two or more metallic elements
+
+amalgamate = combine or unite to form one organization or structure
+
+ambiguous = open to more than one interpretation; having a double meaning
+
+ambivalence = the state of having mixed feelings or contradictory ideas
+
+ameliorate = make something bad or unsatisfactory better
+
+amenable = open to and responsive to suggestion; easily persuaded
+
+amorphous = without a clearly defined shape or form
+
+anachronism = a thing belonging or appropriate to a period other than that in which it exists
+
+analogous = comparable in certain respects, typically in a way that makes clearer the nature of the things compared
+
+anarchy = a state of disorder due to absence or nonrecognition of authority
+
+anathema = something or someone that one vehemently dislikes
+
+ancillary = providing necessary support to the primary activities or operation of an organization, system, or institution
+
+anomaly = something that deviates from what is standard, normal, or expected
+
+antagonism = active hostility or opposition
+
+antecedent = a thing or event that existed before or logically precedes another
+
+antedate = precede in time
+
+antipathy = a deep-seated feeling of dislike
+
+antithesis = a person or thing that is the direct opposite of someone or something else
+
+apathy = lack of interest, enthusiasm, or concern
+
+apex = the top or highest part of something, especially one forming a point
+
+apocryphal = (of a story or statement) of doubtful authenticity, although widely circulated as being true
+
+apostate = a person who renounces a religious or political belief or principle
+
+apotheosis = the highest point in the development of something; culmination or elevation to divine status
+
+appease = pacify or placate someone by acceding to their demands
+
+apprise = inform or tell someone
+
+approbation = approval or praise
+
+appropriate = take something for one's own use, typically without the owner's permission
+
+apropos = very appropriate to a particular situation
+
+arbiter = a person who settles a dispute or has ultimate authority in a matter
+
+arcane = understood by few; mysterious or secret
+
+archaic = very old or old-fashioned
+
+arduous = involving or requiring strenuous effort; difficult and tiring
+
+argot = the jargon or slang of a particular group or class
+
+arrest = stop or catch; attract the attention of
+
+articulate = (of a person) able to speak clearly and coherently
+
+artifact = an object made by a human being, typically an item of cultural or historical interest
+
+artless = without guile or deception; innocent
+
+ascetic = practicing severe self-discipline or abstention
+
+asperity = harshness of tone or manner
+
+aspersion = an attack on the reputation or integrity of someone or something
+
+assiduous = showing great care and perseverance
+
+attenuate = reduce the force, effect, or value of
+
+audacious = showing a willingness to take surprisingly bold risks
+
+austere = severe or strict in manner, attitude, or appearance
+
+autonomous = (of a country or region) self-governing
+
+avarice = extreme greed for wealth or material gain
+
+aver = state or assert to be the case
+
+avocation = a hobby or minor occupation
+
+axiom = a statement or proposition which is regarded as being established, accepted, or self-evidently true
+
+banal = so lacking in originality as to be obvious and boring
+
+bane = a cause of great distress or annoyance
+
+beatific = blissfully happy
+
+belie = (of an appearance) fail to give a true impression of something; disguise or contradict
+
+beneficent = resulting in good; generously good
+
+berate = scold or criticize someone angrily
+
+bifurcate = divide into two branches or forks
+
+blandishment = a babbled or flattery-based enticement
+
+bolster = support or strengthen; prop up
+
+bombastic = high-sounding but with little meaning; inflated
+
+boorish = rough and bad-mannered; coarse
+
+brazen = bold and without shame
+
+bucolic = relating to the pleasant aspects of the countryside and country life
+
+burgeon = begin to grow or increase rapidly; flourish
+
+burnish = polish (something, especially metal) by rubbing
+
+Byzantine = (of a system or situation) excessively complicated, and typically involving a great deal of administrative detail
+
+cacophony = a harsh, discordant mixture of sounds
+
+cajole = persuade someone to do something by sustained coaxing or flattery
+
+callous = showing or having an insensitive and cruel disregard for others
+
+calumny = the making of false and defamatory statements about someone in order to damage their reputation
+
+canard = an unfounded rumor or story
+
+candid = truthful and straightforward; frank

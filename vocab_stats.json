@@ -1,0 +1,654 @@
+{
+  "abate": {
+    "correct": 0,
+    "wrong": 1
+  },
+  "prolific": {
+    "correct": 0,
+    "wrong": 1
+  },
+  "equivocal": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "censure": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "castigate": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "derivative in quality": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "providential": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "eminence": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "notoriety": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "precarious": {
+    "correct": 0,
+    "wrong": 1
+  },
+  "relentlessly": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "technocrat": {
+    "correct": 1,
+    "wrong": 0
+  },
+  "ascertained": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "virtual": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "harbingers": {
+    "correct": 1,
+    "wrong": 1
+  },
+  "stark": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "was rife with": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "phony": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "unprincipled": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "fortuitous": {
+    "correct": 0,
+    "wrong": 1
+  },
+  "ascribe": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "milieu": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "reverence": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "fastidiousness": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "iconoclasm": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "deceptive": {
+    "correct": 1,
+    "wrong": 0
+  },
+  "dissimilar": {
+    "correct": 2,
+    "wrong": 0
+  },
+  "dissimulate": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "disseminate": {
+    "correct": 1,
+    "wrong": 0
+  },
+  "bogus": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "acerbic": {
+    "correct": 1,
+    "wrong": 0
+  },
+  "scathing": {
+    "correct": 1,
+    "wrong": 0
+  },
+  "miserliness": {
+    "correct": 1,
+    "wrong": 0
+  },
+  "stinginess": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "thrift": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "frugality": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "diffidence": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "involved": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "tenuous": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "florid": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "ephemeral": {
+    "correct": 1,
+    "wrong": 0
+  },
+  "inordinately": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "mercurial": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "wariness": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "belies": {
+    "correct": 0,
+    "wrong": 1
+  },
+  "frivolity": {
+    "correct": 1,
+    "wrong": 0
+  },
+  "taciturnity": {
+    "correct": 0,
+    "wrong": 1
+  },
+  "prolixity": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "pelludicity": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "thorny": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "penitential austerity": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "impetuous": {
+    "correct": 0,
+    "wrong": 1
+  },
+  "bolster": {
+    "correct": 1,
+    "wrong": 0
+  },
+  "extraneous": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "attainment": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "rumination": {
+    "correct": 1,
+    "wrong": 0
+  },
+  "prosaic": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "mundane": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "aloof": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "placid": {
+    "correct": 0,
+    "wrong": 1
+  },
+  "restive": {
+    "correct": 0,
+    "wrong": 1
+  },
+  "skittish": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "tranquil": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "vociferous": {
+    "correct": 1,
+    "wrong": 0
+  },
+  "circumscribed": {
+    "correct": 2,
+    "wrong": 0
+  },
+  "indecorous": {
+    "correct": 0,
+    "wrong": 1
+  },
+  "abash": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "abdicate": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "aberrant": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "abeyance": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "abject": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "abjure": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "abscission": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "abscond": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "absolve": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "abstemious": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "abstruse": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "accede": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "acme": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "acquiesce": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "acrid": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "acumen": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "acute": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "adamantly": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "adept": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "adhere": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "admonish": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "adroit": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "adulation": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "aesthetic": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "aggrandize": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "alacrity": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "alchemy": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "alloy": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "amalgamate": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "ambiguous": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "ambivalence": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "ameliorate": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "amenable": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "amorphous": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "anachronism": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "analogous": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "anarchy": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "anathema": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "ancillary": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "anomaly": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "antagonism": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "antecedent": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "antedate": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "antipathy": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "antithesis": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "apathy": {
+    "correct": 1,
+    "wrong": 0
+  },
+  "apex": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "apocryphal": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "apostate": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "apotheosis": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "appease": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "apprise": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "approbation": {
+    "correct": 1,
+    "wrong": 0
+  },
+  "appropriate": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "apropos": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "arbiter": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "arcane": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "archaic": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "arduous": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "argot": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "arrest": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "articulate": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "artifact": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "artless": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "ascetic": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "asperity": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "aspersion": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "assiduous": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "attenuate": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "audacious": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "austere": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "autonomous": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "avarice": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "aver": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "avocation": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "axiom": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "banal": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "bane": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "beatific": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "belie": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "beneficent": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "berate": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "bifurcate": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "blandishment": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "bombastic": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "boorish": {
+    "correct": 1,
+    "wrong": 0
+  },
+  "brazen": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "bucolic": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "burgeon": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "burnish": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "Byzantine": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "cacophony": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "cajole": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "callous": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "calumny": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "canard": {
+    "correct": 0,
+    "wrong": 0
+  },
+  "candid": {
+    "correct": 0,
+    "wrong": 0
+  }
+}
