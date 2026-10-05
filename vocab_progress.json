@@ -1,0 +1,398 @@
+{
+ "version": 2,
+ "settings": {
+  "repeat_missed": true
+ },
+ "words": {
+  "censure": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "castigate": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "precarious": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "fortuitous": {
+   "correct": 0,
+   "wrong": 2,
+   "history": "",
+   "last_seen": ""
+  },
+  "disseminate": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "ephemeral": {
+   "correct": 2,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "mercurial": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "bolster": {
+   "correct": 1,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "extraneous": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "mundane": {
+   "correct": 2,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:04:21"
+  },
+  "restive": {
+   "correct": 0,
+   "wrong": 2,
+   "history": "",
+   "last_seen": ""
+  },
+  "vociferous": {
+   "correct": 2,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "aberrant": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "abeyance": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "abjure": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "abscond": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "admonish": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "alacrity": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "amalgamate": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "ambiguous": {
+   "correct": 2,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:04:28"
+  },
+  "ameliorate": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "amenable": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "antipathy": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "apathy": {
+   "correct": 2,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "appease": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "approbation": {
+   "correct": 2,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "arcane": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "archaic": {
+   "correct": 2,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:04:26"
+  },
+  "arduous": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "ascetic": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "attenuate": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "audacious": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "austere": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "avarice": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "aver": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "banal": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "belie": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "bombastic": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "bucolic": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "burgeon": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "burnish": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "",
+   "last_seen": ""
+  },
+  "calumny": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "",
+   "last_seen": ""
+  },
+  "pragmatic": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "0",
+   "last_seen": "2026-10-05T12:00:14"
+  },
+  "derivative": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "0",
+   "last_seen": "2026-10-05T12:00:26"
+  },
+  "sanction": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:00:45"
+  },
+  "opaque": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:00:50"
+  },
+  "prudent": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:00:54"
+  },
+  "eclectic": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "0",
+   "last_seen": "2026-10-05T12:01:17"
+  },
+  "eminent": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:01:27"
+  },
+  "rhetoric": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "0",
+   "last_seen": "2026-10-05T12:01:39"
+  },
+  "partisan": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:01:49"
+  },
+  "emulate": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:01:52"
+  },
+  "discrete": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:02:06"
+  },
+  "obscure": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:02:19"
+  },
+  "pervasive": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "0",
+   "last_seen": "2026-10-05T12:02:45"
+  },
+  "endemic": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "0",
+   "last_seen": "2026-10-05T12:03:00"
+  },
+  "implicit": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:03:03"
+  },
+  "aesthetic": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:03:04"
+  },
+  "empirical": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:03:16"
+  },
+  "provincial": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:03:28"
+  },
+  "intimate": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:03:53"
+  },
+  "arbitrary": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:03:54"
+  },
+  "mitigate": {
+   "correct": 1,
+   "wrong": 0,
+   "history": "1",
+   "last_seen": "2026-10-05T12:04:03"
+  },
+  "transient": {
+   "correct": 0,
+   "wrong": 1,
+   "history": "0",
+   "last_seen": "2026-10-05T12:04:09"
+  }
+ },
+ "daily": {
+  "2026-10-05": {
+   "answers": 25,
+   "seconds": 277
+  }
+ }
+}

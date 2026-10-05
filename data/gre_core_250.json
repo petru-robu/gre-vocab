@@ -1,0 +1,4144 @@
+{
+ "meta": {
+  "title": "GRE Core 250",
+  "batch_size": 25,
+  "lists_total": 10,
+  "selection": "Top words by agreement across published GRE high-frequency lists (weighted); batches ordered by everyday-English frequency, easiest first.",
+  "sources": [
+   {
+    "id": "powerscore",
+    "name": "PowerScore GRE Vocabulary: Repeat Offenders (700 words PowerScore flags as recurring on the GRE)",
+    "url": "https://help.powerscore.com/sites/default/files/2021-12/Repeat-Offenders-Vocabulary.pdf",
+    "weight": 2.0,
+    "size": 699
+   },
+   {
+    "id": "barrons333",
+    "name": "Barron's GRE High-Frequency 333 words",
+    "url": "https://www.vocabulary.com/lists/182204",
+    "weight": 1.0,
+    "size": 328
+   },
+   {
+    "id": "magoosh_common",
+    "name": "Magoosh GRE 1000 - Common (High-frequency) words",
+    "url": "https://s3.amazonaws.com/magoosh.resources/magoosh-gre-1000-words_oct01.pdf",
+    "weight": 1.0,
+    "size": 309
+   },
+   {
+    "id": "gregmat",
+    "name": "GregMat high-frequency GRE words",
+    "url": "https://github.com/Xatta-Trone/gre-words-collection",
+    "weight": 1.0,
+    "size": 959
+   },
+   {
+    "id": "prepscholar",
+    "name": "PrepScholar GRE vocabulary list",
+    "url": "https://www.prepscholar.com/gre/blog/gre-vocabulary-list-words/",
+    "weight": 1.0,
+    "size": 357
+   },
+   {
+    "id": "hit_parade",
+    "name": "Princeton Review 'Hit Parade' (most frequently tested GRE words)",
+    "url": "https://www.vocabulary.com/lists/162927",
+    "weight": 1.0,
+    "size": 127
+   },
+   {
+    "id": "magoosh_1000",
+    "name": "Magoosh GRE 1000 words (all tiers)",
+    "url": "https://s3.amazonaws.com/magoosh.resources/magoosh-gre-1000-words_oct01.pdf",
+    "weight": 0.5,
+    "size": 997
+   },
+   {
+    "id": "manhattan",
+    "name": "Manhattan Prep 1000 GRE words",
+    "url": "https://github.com/Xatta-Trone/gre-words-collection",
+    "weight": 0.5,
+    "size": 1018
+   },
+   {
+    "id": "greenlight",
+    "name": "Greenlight Test Prep GRE Basic 500",
+    "url": "https://quizlet.com/18795939/gre-basic-flash-cards/",
+    "weight": 0.5,
+    "size": 499
+   },
+   {
+    "id": "vocabcom",
+    "name": "Vocabulary.com GRE Top 1000",
+    "url": "https://github.com/Xatta-Trone/gre-words-collection",
+    "weight": 0.5,
+    "size": 1000
+   }
+  ]
+ },
+ "batches": [
+  {
+   "number": 1,
+   "label": "Warm-up",
+   "words": [
+    "provincial",
+    "intimate",
+    "aesthetic",
+    "rhetoric",
+    "arbitrary",
+    "obscure",
+    "partisan",
+    "derivative",
+    "empirical",
+    "ambiguous",
+    "discrete",
+    "eminent",
+    "mitigate",
+    "pragmatic",
+    "implicit",
+    "mundane",
+    "sanction",
+    "emulate",
+    "prudent",
+    "pervasive",
+    "eclectic",
+    "endemic",
+    "opaque",
+    "transient",
+    "archaic"
+   ]
+  },
+  {
+   "number": 2,
+   "label": "Easy",
+   "words": [
+    "conspicuous",
+    "maverick",
+    "pristine",
+    "bolster",
+    "contentious",
+    "sporadic",
+    "lucid",
+    "precarious",
+    "apathy",
+    "disparate",
+    "luminous",
+    "meticulous",
+    "plethora",
+    "appease",
+    "craven",
+    "arduous",
+    "esoteric",
+    "propensity",
+    "refute",
+    "frugal",
+    "copious",
+    "egregious",
+    "elicit",
+    "whimsical",
+    "nuance"
+   ]
+  },
+  {
+   "number": 3,
+   "label": "Approachable",
+   "words": [
+    "abstain",
+    "penchant",
+    "innocuous",
+    "convoluted",
+    "paragon",
+    "intrepid",
+    "disseminate",
+    "insular",
+    "eulogy",
+    "fawn",
+    "ambivalent",
+    "austere",
+    "superfluous",
+    "arcane",
+    "ephemeral",
+    "caustic",
+    "deference",
+    "spurious",
+    "audacious",
+    "disingenuous",
+    "anomalous",
+    "censure",
+    "reproach",
+    "tacit",
+    "veracity"
+   ]
+  },
+  {
+   "number": 4,
+   "label": "Moderate",
+   "words": [
+    "dogmatic",
+    "corroborate",
+    "euphemism",
+    "exacerbate",
+    "malevolent",
+    "onerous",
+    "prodigal",
+    "prodigious",
+    "disinterested",
+    "amenable",
+    "banal",
+    "decorum",
+    "pernicious",
+    "rescind",
+    "tirade",
+    "presumptuous",
+    "immutable",
+    "commensurate",
+    "itinerant",
+    "malleable",
+    "mercurial",
+    "ascetic",
+    "capricious",
+    "extraneous",
+    "propriety"
+   ]
+  },
+  {
+   "number": 5,
+   "label": "Intermediate",
+   "words": [
+    "dupe",
+    "precipitate",
+    "placate",
+    "conciliatory",
+    "erudite",
+    "didactic",
+    "obstinate",
+    "petulant",
+    "deleterious",
+    "cogent",
+    "gregarious",
+    "antipathy",
+    "elucidate",
+    "aberrant",
+    "anachronistic",
+    "incongruous",
+    "proliferate",
+    "fortuitous",
+    "ostentatious",
+    "panache",
+    "pedantic",
+    "confound",
+    "tortuous",
+    "fallacious",
+    "fastidious"
+   ]
+  },
+  {
+   "number": 6,
+   "label": "Challenging",
+   "words": [
+    "glib",
+    "insipid",
+    "myopic",
+    "assuage",
+    "bombastic",
+    "coalesce",
+    "engender",
+    "reticent",
+    "exonerate",
+    "implacable",
+    "magnanimous",
+    "paucity",
+    "laud",
+    "levity",
+    "denigrate",
+    "diatribe",
+    "disparage",
+    "eschew",
+    "scrupulous",
+    "ameliorate",
+    "delineate",
+    "supplant",
+    "efficacious",
+    "recalcitrant",
+    "languid"
+   ]
+  },
+  {
+   "number": 7,
+   "label": "Demanding",
+   "words": [
+    "predilection",
+    "facetious",
+    "avarice",
+    "furtive",
+    "polemical",
+    "contrite",
+    "relegate",
+    "circumspect",
+    "reverent",
+    "belie",
+    "perfunctory",
+    "repudiate",
+    "specious",
+    "vociferous",
+    "bucolic",
+    "morose",
+    "verbose",
+    "deride",
+    "foment",
+    "hackneyed",
+    "laconic",
+    "probity",
+    "dirge",
+    "profligate",
+    "restive"
+   ]
+  },
+  {
+   "number": 8,
+   "label": "Hard",
+   "words": [
+    "taciturn",
+    "torpor",
+    "abeyance",
+    "alacrity",
+    "attenuate",
+    "germane",
+    "approbation",
+    "admonish",
+    "intransigent",
+    "irascible",
+    "dilettante",
+    "venerate",
+    "indolent",
+    "chicanery",
+    "amalgamate",
+    "fatuous",
+    "quotidian",
+    "surfeit",
+    "tractable",
+    "aver",
+    "misanthrope",
+    "sycophant",
+    "parsimonious",
+    "ebullient",
+    "inimical"
+   ]
+  },
+  {
+   "number": 9,
+   "label": "Very hard",
+   "words": [
+    "platitude",
+    "iconoclast",
+    "obsequious",
+    "salubrious",
+    "garrulous",
+    "loquacious",
+    "obviate",
+    "opprobrium",
+    "desultory",
+    "diffident",
+    "soporific",
+    "penury",
+    "perfidious",
+    "officious",
+    "abscond",
+    "harangue",
+    "inundate",
+    "phlegmatic",
+    "inchoate",
+    "mendacious",
+    "burnish",
+    "mollify",
+    "disabuse",
+    "obdurate",
+    "stolid"
+   ]
+  },
+  {
+   "number": 10,
+   "label": "Expert",
+   "words": [
+    "truculent",
+    "calumny",
+    "idiosyncrasy",
+    "effrontery",
+    "castigate",
+    "ingenuous",
+    "imperturbable",
+    "dissemble",
+    "dilatory",
+    "abjure",
+    "occlude",
+    "demur",
+    "vacillate",
+    "munificent",
+    "recondite",
+    "equivocate",
+    "burgeon",
+    "exculpate",
+    "prevaricate",
+    "gainsay",
+    "propitiate",
+    "upbraid",
+    "desiccate",
+    "enervate",
+    "sedulous"
+   ]
+  }
+ ],
+ "words": {
+  "provincial": {
+   "pos": "adj.",
+   "definition": "narrow in outlook; unsophisticated, as if limited to one's own small region",
+   "synonyms": [
+    "parochial",
+    "insular",
+    "narrow-minded"
+   ],
+   "example": "Raised in a remote village, she was embarrassed by her provincial assumptions about city life.",
+   "note": "",
+   "batch": 1,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 4.08
+  },
+  "intimate": {
+   "pos": "v.",
+   "definition": "to hint or suggest indirectly, without saying outright",
+   "synonyms": [
+    "imply",
+    "insinuate",
+    "hint"
+   ],
+   "example": "The senator intimated that he might resign without ever saying so directly.",
+   "note": "As a verb it is pronounced IN-tuh-mayt. The GRE tests this \"hint\" sense, not the \"close/private\" adjective.",
+   "batch": 1,
+   "lists": 6,
+   "score": 4.5,
+   "zipf": 4.06
+  },
+  "aesthetic": {
+   "pos": "adj.",
+   "definition": "concerned with beauty or the appreciation of beauty",
+   "synonyms": [
+    "artistic",
+    "tasteful",
+    "visual"
+   ],
+   "example": "The architect cared less about cost than about the building's aesthetic appeal.",
+   "note": "",
+   "batch": 1,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 4.02
+  },
+  "rhetoric": {
+   "pos": "n.",
+   "definition": "the art of persuasive speaking or writing; often, showy language with little real substance",
+   "synonyms": [
+    "oratory",
+    "eloquence",
+    "bombast"
+   ],
+   "example": "The candidate's soaring rhetoric masked the fact that he had no concrete plan.",
+   "note": "",
+   "batch": 1,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 3.95
+  },
+  "arbitrary": {
+   "pos": "adj.",
+   "definition": "based on random choice or personal whim rather than reason or a system",
+   "synonyms": [
+    "capricious",
+    "random",
+    "whimsical"
+   ],
+   "example": "The dean's decision seemed arbitrary because he never explained his criteria.",
+   "note": "",
+   "batch": 1,
+   "lists": 6,
+   "score": 4.5,
+   "zipf": 3.85
+  },
+  "obscure": {
+   "pos": "adj.",
+   "definition": "not well known; hard to understand or see clearly (v.: to make unclear or hide)",
+   "synonyms": [
+    "arcane",
+    "vague",
+    "unknown"
+   ],
+   "example": "The poet remained obscure until a critic rediscovered his work decades later.",
+   "note": "",
+   "batch": 1,
+   "lists": 5,
+   "score": 5.5,
+   "zipf": 3.85
+  },
+  "partisan": {
+   "pos": "adj.",
+   "definition": "strongly (often blindly) supporting one side, party, or cause; biased (n.: such a supporter)",
+   "synonyms": [
+    "biased",
+    "factional",
+    "one-sided"
+   ],
+   "example": "Partisan bickering prevented the committee from agreeing on even a small compromise.",
+   "note": "",
+   "batch": 1,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 3.81
+  },
+  "derivative": {
+   "pos": "adj.",
+   "definition": "copied from or based on the work of others; lacking originality",
+   "synonyms": [
+    "unoriginal",
+    "imitative",
+    "secondhand"
+   ],
+   "example": "Critics dismissed the film as derivative, a patchwork of scenes borrowed from classic westerns.",
+   "note": "",
+   "batch": 1,
+   "lists": 9,
+   "score": 8.5,
+   "zipf": 3.65
+  },
+  "empirical": {
+   "pos": "adj.",
+   "definition": "based on observation or experiment rather than on theory alone",
+   "synonyms": [
+    "observed",
+    "experimental",
+    "evidence-based"
+   ],
+   "example": "The theory is elegant, but it lacks empirical support.",
+   "note": "",
+   "batch": 1,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 3.62
+  },
+  "ambiguous": {
+   "pos": "adj.",
+   "definition": "open to more than one interpretation; unclear",
+   "synonyms": [
+    "equivocal",
+    "vague",
+    "indeterminate"
+   ],
+   "example": "The contract's wording was ambiguous, and each side claimed it supported them.",
+   "note": "",
+   "batch": 1,
+   "lists": 6,
+   "score": 4.5,
+   "zipf": 3.57
+  },
+  "discrete": {
+   "pos": "adj.",
+   "definition": "individually separate and distinct",
+   "synonyms": [
+    "separate",
+    "distinct",
+    "detached"
+   ],
+   "example": "The survey sorted answers into three discrete categories with no overlap.",
+   "note": "Not the same as discreet (tactful, careful about what you say).",
+   "batch": 1,
+   "lists": 6,
+   "score": 4.5,
+   "zipf": 3.56
+  },
+  "eminent": {
+   "pos": "adj.",
+   "definition": "famous and respected in a particular field; distinguished",
+   "synonyms": [
+    "distinguished",
+    "renowned",
+    "prominent"
+   ],
+   "example": "An eminent physicist was invited to deliver the keynote address.",
+   "note": "Not the same as imminent (about to happen).",
+   "batch": 1,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 3.56
+  },
+  "mitigate": {
+   "pos": "v.",
+   "definition": "to make less severe, harmful, or painful",
+   "synonyms": [
+    "alleviate",
+    "lessen",
+    "moderate"
+   ],
+   "example": "Planting trees along the river helped mitigate the effects of flooding.",
+   "note": "",
+   "batch": 1,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 3.54
+  },
+  "pragmatic": {
+   "pos": "adj.",
+   "definition": "dealing with things sensibly and realistically, based on practical rather than theoretical concerns",
+   "synonyms": [
+    "practical",
+    "realistic",
+    "sensible"
+   ],
+   "example": "A pragmatic leader, she accepted a smaller deal rather than risk losing everything.",
+   "note": "",
+   "batch": 1,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 3.49
+  },
+  "implicit": {
+   "pos": "adj.",
+   "definition": "implied though not stated outright; also, absolute and unquestioning",
+   "synonyms": [
+    "implied",
+    "tacit",
+    "unspoken"
+   ],
+   "example": "There was an implicit threat in his polite reminder about the deadline.",
+   "note": "",
+   "batch": 1,
+   "lists": 5,
+   "score": 5.5,
+   "zipf": 3.45
+  },
+  "mundane": {
+   "pos": "adj.",
+   "definition": "lacking interest or excitement; dull and ordinary",
+   "synonyms": [
+    "prosaic",
+    "humdrum",
+    "workaday"
+   ],
+   "example": "After the thrill of the expedition, the mundane routine of office life felt stifling.",
+   "note": "",
+   "batch": 1,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 3.43
+  },
+  "sanction": {
+   "pos": "v./n.",
+   "definition": "v.: to authorize or approve; n.: approval, but also (usually plural) a penalty for breaking a rule",
+   "synonyms": [
+    "endorse",
+    "authorize",
+    "penalty"
+   ],
+   "example": "The council refused to sanction the project until its environmental impact was assessed.",
+   "note": "A contronym: it can mean \"approve\" or \"punish\". Context decides, so watch the sentence.",
+   "batch": 1,
+   "lists": 9,
+   "score": 7.0,
+   "zipf": 3.43
+  },
+  "emulate": {
+   "pos": "v.",
+   "definition": "to imitate in an effort to equal or surpass",
+   "synonyms": [
+    "imitate",
+    "follow",
+    "rival"
+   ],
+   "example": "Young writers often emulate the authors they admire most.",
+   "note": "",
+   "batch": 1,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 3.41
+  },
+  "prudent": {
+   "pos": "adj.",
+   "definition": "wise and careful in practical matters; cautious about the future",
+   "synonyms": [
+    "judicious",
+    "circumspect",
+    "sensible"
+   ],
+   "example": "It would be prudent to save part of your income before making such a large purchase.",
+   "note": "",
+   "batch": 1,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 3.41
+  },
+  "pervasive": {
+   "pos": "adj.",
+   "definition": "spreading widely through every part of something; present everywhere",
+   "synonyms": [
+    "ubiquitous",
+    "widespread",
+    "omnipresent"
+   ],
+   "example": "Distrust of the government was so pervasive that even routine announcements were doubted.",
+   "note": "",
+   "batch": 1,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 3.39
+  },
+  "eclectic": {
+   "pos": "adj.",
+   "definition": "drawing on a wide range of sources, styles, or ideas",
+   "synonyms": [
+    "diverse",
+    "varied",
+    "wide-ranging"
+   ],
+   "example": "Her eclectic taste in music ranges from medieval chant to punk rock.",
+   "note": "",
+   "batch": 1,
+   "lists": 9,
+   "score": 8.5,
+   "zipf": 3.37
+  },
+  "endemic": {
+   "pos": "adj.",
+   "definition": "regularly found in a particular place or among a particular group; native to it",
+   "synonyms": [
+    "native",
+    "indigenous",
+    "prevalent"
+   ],
+   "example": "Malaria is endemic to many tropical regions.",
+   "note": "",
+   "batch": 1,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 3.37
+  },
+  "opaque": {
+   "pos": "adj.",
+   "definition": "not transparent; hard to understand or interpret",
+   "synonyms": [
+    "cloudy",
+    "impenetrable",
+    "unclear"
+   ],
+   "example": "The agency's opaque accounting made it impossible to tell where the money went.",
+   "note": "",
+   "batch": 1,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 3.37
+  },
+  "transient": {
+   "pos": "adj.",
+   "definition": "lasting only a short time; temporary (n.: a person who stays briefly)",
+   "synonyms": [
+    "fleeting",
+    "ephemeral",
+    "evanescent"
+   ],
+   "example": "The fame of a viral video star is usually transient.",
+   "note": "",
+   "batch": 1,
+   "lists": 5,
+   "score": 5.5,
+   "zipf": 3.37
+  },
+  "archaic": {
+   "pos": "adj.",
+   "definition": "belonging to an earlier period; outdated",
+   "synonyms": [
+    "antiquated",
+    "obsolete",
+    "outmoded"
+   ],
+   "example": "Words like \"thou\" and \"hath\" now sound archaic.",
+   "note": "",
+   "batch": 1,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 3.36
+  },
+  "conspicuous": {
+   "pos": "adj.",
+   "definition": "clearly visible; attracting attention",
+   "synonyms": [
+    "noticeable",
+    "obvious",
+    "prominent"
+   ],
+   "example": "Her bright red coat made her conspicuous in the gray crowd.",
+   "note": "",
+   "batch": 2,
+   "lists": 7,
+   "score": 6.0,
+   "zipf": 3.35
+  },
+  "maverick": {
+   "pos": "n.",
+   "definition": "an independent-minded person who refuses to follow the conventions of a group",
+   "synonyms": [
+    "nonconformist",
+    "individualist",
+    "iconoclast"
+   ],
+   "example": "The maverick economist rejected the field's consensus and published a very different forecast.",
+   "note": "",
+   "batch": 2,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 3.33
+  },
+  "pristine": {
+   "pos": "adj.",
+   "definition": "in its original, unspoiled, untouched condition; pure",
+   "synonyms": [
+    "unspoiled",
+    "immaculate",
+    "pure"
+   ],
+   "example": "The hikers reached a pristine lake that no road had ever approached.",
+   "note": "",
+   "batch": 2,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 3.33
+  },
+  "bolster": {
+   "pos": "v.",
+   "definition": "to support or strengthen",
+   "synonyms": [
+    "reinforce",
+    "buttress",
+    "shore up"
+   ],
+   "example": "New evidence from the lab bolstered the researchers' claim.",
+   "note": "",
+   "batch": 2,
+   "lists": 7,
+   "score": 5.5,
+   "zipf": 3.31
+  },
+  "contentious": {
+   "pos": "adj.",
+   "definition": "causing or likely to cause argument; fond of quarreling",
+   "synonyms": [
+    "controversial",
+    "disputatious",
+    "quarrelsome"
+   ],
+   "example": "The tax proposal was so contentious that the debate lasted for weeks.",
+   "note": "",
+   "batch": 2,
+   "lists": 6,
+   "score": 4.5,
+   "zipf": 3.31
+  },
+  "sporadic": {
+   "pos": "adj.",
+   "definition": "occurring at irregular intervals; scattered",
+   "synonyms": [
+    "intermittent",
+    "occasional",
+    "infrequent"
+   ],
+   "example": "Sporadic gunfire could be heard through the night, but nothing sustained.",
+   "note": "",
+   "batch": 2,
+   "lists": 8,
+   "score": 6.5,
+   "zipf": 3.29
+  },
+  "lucid": {
+   "pos": "adj.",
+   "definition": "clearly expressed and easy to understand; also, mentally clear and rational",
+   "synonyms": [
+    "clear",
+    "coherent",
+    "intelligible"
+   ],
+   "example": "Her lucid explanation made the complex theory accessible to beginners.",
+   "note": "",
+   "batch": 2,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 3.27
+  },
+  "precarious": {
+   "pos": "adj.",
+   "definition": "dangerously unstable or uncertain; dependent on chance",
+   "synonyms": [
+    "perilous",
+    "unstable",
+    "shaky"
+   ],
+   "example": "The climber's position on the narrow ledge was precarious.",
+   "note": "",
+   "batch": 2,
+   "lists": 6,
+   "score": 4.5,
+   "zipf": 3.27
+  },
+  "apathy": {
+   "pos": "n.",
+   "definition": "lack of interest, enthusiasm, or concern",
+   "synonyms": [
+    "indifference",
+    "listlessness",
+    "unconcern"
+   ],
+   "example": "Voter apathy was blamed for the record-low turnout.",
+   "note": "",
+   "batch": 2,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 3.26
+  },
+  "disparate": {
+   "pos": "adj.",
+   "definition": "essentially different in kind; so unlike that comparison is hard",
+   "synonyms": [
+    "dissimilar",
+    "divergent",
+    "heterogeneous"
+   ],
+   "example": "The museum displayed disparate objects: a jade carving, a locomotive wheel, and a 1950s radio.",
+   "note": "",
+   "batch": 2,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 3.26
+  },
+  "luminous": {
+   "pos": "adj.",
+   "definition": "giving off light; glowing; also, clear and enlightening",
+   "synonyms": [
+    "radiant",
+    "glowing",
+    "brilliant"
+   ],
+   "example": "The moon was luminous above the dark lake.",
+   "note": "",
+   "batch": 2,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 3.24
+  },
+  "meticulous": {
+   "pos": "adj.",
+   "definition": "showing great care and attention to detail",
+   "synonyms": [
+    "painstaking",
+    "scrupulous",
+    "punctilious"
+   ],
+   "example": "The restorer was meticulous, cleaning each fragment with a tiny brush.",
+   "note": "",
+   "batch": 2,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 3.24
+  },
+  "plethora": {
+   "pos": "n.",
+   "definition": "an excessive or overabundant amount",
+   "synonyms": [
+    "excess",
+    "glut",
+    "surfeit"
+   ],
+   "example": "A plethora of options left the shoppers more confused than before.",
+   "note": "",
+   "batch": 2,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 3.24
+  },
+  "appease": {
+   "pos": "v.",
+   "definition": "to pacify or placate, often by giving in to demands",
+   "synonyms": [
+    "placate",
+    "mollify",
+    "pacify"
+   ],
+   "example": "The manager gave the angry customer a refund in an attempt to appease him.",
+   "note": "",
+   "batch": 2,
+   "lists": 6,
+   "score": 5.0,
+   "zipf": 3.2
+  },
+  "craven": {
+   "pos": "adj.",
+   "definition": "contemptibly lacking in courage",
+   "synonyms": [
+    "cowardly",
+    "pusillanimous",
+    "timorous"
+   ],
+   "example": "The craven guard fled at the first sign of trouble.",
+   "note": "",
+   "batch": 2,
+   "lists": 9,
+   "score": 8.5,
+   "zipf": 3.19
+  },
+  "arduous": {
+   "pos": "adj.",
+   "definition": "requiring great effort; strenuous",
+   "synonyms": [
+    "grueling",
+    "laborious",
+    "strenuous"
+   ],
+   "example": "The arduous climb took the team nearly nine hours.",
+   "note": "",
+   "batch": 2,
+   "lists": 8,
+   "score": 6.5,
+   "zipf": 3.18
+  },
+  "esoteric": {
+   "pos": "adj.",
+   "definition": "understood by or meant for only a small group with specialized knowledge",
+   "synonyms": [
+    "arcane",
+    "recondite",
+    "abstruse"
+   ],
+   "example": "The professor's lecture on esoteric points of medieval law lost most of the class.",
+   "note": "",
+   "batch": 2,
+   "lists": 8,
+   "score": 8.0,
+   "zipf": 3.17
+  },
+  "propensity": {
+   "pos": "n.",
+   "definition": "a natural tendency or inclination",
+   "synonyms": [
+    "proclivity",
+    "penchant",
+    "predilection"
+   ],
+   "example": "He has a propensity for exaggerating his accomplishments.",
+   "note": "",
+   "batch": 2,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 3.16
+  },
+  "refute": {
+   "pos": "v.",
+   "definition": "to prove a claim or person wrong with argument or evidence",
+   "synonyms": [
+    "disprove",
+    "rebut",
+    "debunk"
+   ],
+   "example": "The data refuted the hypothesis that the drug was effective.",
+   "note": "",
+   "batch": 2,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 3.14
+  },
+  "frugal": {
+   "pos": "adj.",
+   "definition": "careful about spending; thrifty",
+   "synonyms": [
+    "thrifty",
+    "economical",
+    "sparing"
+   ],
+   "example": "Growing up in poverty made her frugal for the rest of her life.",
+   "note": "",
+   "batch": 2,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 3.11
+  },
+  "copious": {
+   "pos": "adj.",
+   "definition": "abundant; plentiful",
+   "synonyms": [
+    "abundant",
+    "profuse",
+    "ample"
+   ],
+   "example": "He took copious notes throughout the lecture.",
+   "note": "",
+   "batch": 2,
+   "lists": 6,
+   "score": 4.5,
+   "zipf": 3.1
+  },
+  "egregious": {
+   "pos": "adj.",
+   "definition": "outstandingly bad; shocking in a conspicuous way",
+   "synonyms": [
+    "flagrant",
+    "glaring",
+    "atrocious"
+   ],
+   "example": "The editor was appalled by the egregious factual errors in the article.",
+   "note": "",
+   "batch": 2,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 3.1
+  },
+  "elicit": {
+   "pos": "v.",
+   "definition": "to draw out (a response, reaction, or piece of information)",
+   "synonyms": [
+    "evoke",
+    "extract",
+    "provoke"
+   ],
+   "example": "The comedian's joke failed to elicit even a smile.",
+   "note": "Not the same as illicit (illegal).",
+   "batch": 2,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 3.1
+  },
+  "whimsical": {
+   "pos": "adj.",
+   "definition": "playfully quaint or fanciful; unpredictable",
+   "synonyms": [
+    "fanciful",
+    "capricious",
+    "quirky"
+   ],
+   "example": "The garden's whimsical sculptures included a dancing teapot.",
+   "note": "",
+   "batch": 2,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 3.1
+  },
+  "nuance": {
+   "pos": "n.",
+   "definition": "a subtle difference in meaning, tone, or expression",
+   "synonyms": [
+    "subtlety",
+    "shade",
+    "distinction"
+   ],
+   "example": "The translator struggled to preserve every nuance of the poem.",
+   "note": "",
+   "batch": 2,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 3.09
+  },
+  "abstain": {
+   "pos": "v.",
+   "definition": "to deliberately hold oneself back from doing something, especially voting or indulging",
+   "synonyms": [
+    "refrain",
+    "forgo",
+    "eschew"
+   ],
+   "example": "He abstained from alcohol throughout his training.",
+   "note": "",
+   "batch": 3,
+   "lists": 6,
+   "score": 4.5,
+   "zipf": 3.07
+  },
+  "penchant": {
+   "pos": "n.",
+   "definition": "a strong liking or habitual inclination",
+   "synonyms": [
+    "fondness",
+    "predilection",
+    "proclivity"
+   ],
+   "example": "She has a penchant for wearing outlandish hats.",
+   "note": "",
+   "batch": 3,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 3.07
+  },
+  "innocuous": {
+   "pos": "adj.",
+   "definition": "not harmful or offensive",
+   "synonyms": [
+    "harmless",
+    "inoffensive",
+    "benign"
+   ],
+   "example": "The remark seemed innocuous, but it deeply offended her.",
+   "note": "",
+   "batch": 3,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 3.06
+  },
+  "convoluted": {
+   "pos": "adj.",
+   "definition": "extremely complex and difficult to follow; intricately twisted",
+   "synonyms": [
+    "intricate",
+    "labyrinthine",
+    "tortuous"
+   ],
+   "example": "The film's convoluted plot required a flowchart to follow.",
+   "note": "",
+   "batch": 3,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 3.05
+  },
+  "paragon": {
+   "pos": "n.",
+   "definition": "a model of excellence or perfection",
+   "synonyms": [
+    "exemplar",
+    "epitome",
+    "ideal"
+   ],
+   "example": "She was held up as a paragon of integrity.",
+   "note": "",
+   "batch": 3,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 3.05
+  },
+  "intrepid": {
+   "pos": "adj.",
+   "definition": "fearless; adventurous",
+   "synonyms": [
+    "fearless",
+    "undaunted",
+    "dauntless"
+   ],
+   "example": "The intrepid explorer crossed the desert alone.",
+   "note": "",
+   "batch": 3,
+   "lists": 8,
+   "score": 6.0,
+   "zipf": 3.04
+  },
+  "disseminate": {
+   "pos": "v.",
+   "definition": "to spread (information, ideas) widely",
+   "synonyms": [
+    "spread",
+    "circulate",
+    "propagate"
+   ],
+   "example": "The organization uses social media to disseminate health information.",
+   "note": "",
+   "batch": 3,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 3.03
+  },
+  "insular": {
+   "pos": "adj.",
+   "definition": "isolated; narrow-minded and uninterested in outside ideas",
+   "synonyms": [
+    "isolated",
+    "parochial",
+    "provincial"
+   ],
+   "example": "The insular community distrusted outsiders and their new ideas.",
+   "note": "",
+   "batch": 3,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 3.03
+  },
+  "eulogy": {
+   "pos": "n.",
+   "definition": "a speech or piece of writing praising someone, especially one who has died",
+   "synonyms": [
+    "tribute",
+    "panegyric",
+    "encomium"
+   ],
+   "example": "Her son delivered a moving eulogy at the funeral.",
+   "note": "",
+   "batch": 3,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 3.02
+  },
+  "fawn": {
+   "pos": "v.",
+   "definition": "to seek favor by flattery and servile attention (usually \"fawn over/on\")",
+   "synonyms": [
+    "grovel",
+    "toady",
+    "curry favor"
+   ],
+   "example": "Courtiers fawned over the king, praising even his worst jokes.",
+   "note": "Here it is a verb, not the baby deer.",
+   "batch": 3,
+   "lists": 7,
+   "score": 6.0,
+   "zipf": 3.02
+  },
+  "ambivalent": {
+   "pos": "adj.",
+   "definition": "having mixed or contradictory feelings about something",
+   "synonyms": [
+    "conflicted",
+    "uncertain",
+    "torn"
+   ],
+   "example": "She felt ambivalent about leaving, both eager and afraid.",
+   "note": "Not \"indifferent\": the person feels strongly in two directions.",
+   "batch": 3,
+   "lists": 6,
+   "score": 5.0,
+   "zipf": 3.01
+  },
+  "austere": {
+   "pos": "adj.",
+   "definition": "severe or strict in manner; plain and without luxury",
+   "synonyms": [
+    "stern",
+    "spartan",
+    "ascetic"
+   ],
+   "example": "The monks lived an austere life in bare stone cells.",
+   "note": "",
+   "batch": 3,
+   "lists": 9,
+   "score": 8.0,
+   "zipf": 3.0
+  },
+  "superfluous": {
+   "pos": "adj.",
+   "definition": "more than is needed; unnecessary",
+   "synonyms": [
+    "unnecessary",
+    "redundant",
+    "excessive"
+   ],
+   "example": "Cut every superfluous word from your essay.",
+   "note": "",
+   "batch": 3,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 3.0
+  },
+  "arcane": {
+   "pos": "adj.",
+   "definition": "understood by few; mysterious",
+   "synonyms": [
+    "esoteric",
+    "obscure",
+    "recondite"
+   ],
+   "example": "The legal code was full of arcane rules that only specialists could decipher.",
+   "note": "",
+   "batch": 3,
+   "lists": 6,
+   "score": 4.5,
+   "zipf": 2.99
+  },
+  "ephemeral": {
+   "pos": "adj.",
+   "definition": "lasting a very short time",
+   "synonyms": [
+    "fleeting",
+    "transitory",
+    "evanescent"
+   ],
+   "example": "The beauty of cherry blossoms is ephemeral; they fall within days.",
+   "note": "",
+   "batch": 3,
+   "lists": 9,
+   "score": 8.5,
+   "zipf": 2.99
+  },
+  "caustic": {
+   "pos": "adj.",
+   "definition": "sarcastic and bitingly critical; able to corrode",
+   "synonyms": [
+    "acerbic",
+    "biting",
+    "scathing"
+   ],
+   "example": "The reviewer's caustic wit spared no one in the cast.",
+   "note": "",
+   "batch": 3,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 2.97
+  },
+  "deference": {
+   "pos": "n.",
+   "definition": "respectful submission to the judgment or wishes of another",
+   "synonyms": [
+    "respect",
+    "homage",
+    "submission"
+   ],
+   "example": "Out of deference to his elders, he stayed silent.",
+   "note": "",
+   "batch": 3,
+   "lists": 7,
+   "score": 5.5,
+   "zipf": 2.96
+  },
+  "spurious": {
+   "pos": "adj.",
+   "definition": "not genuine; false though appearing authentic",
+   "synonyms": [
+    "false",
+    "bogus",
+    "counterfeit"
+   ],
+   "example": "The historian exposed the diary as a spurious document.",
+   "note": "",
+   "batch": 3,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 2.96
+  },
+  "audacious": {
+   "pos": "adj.",
+   "definition": "bold and daring, sometimes insolently so",
+   "synonyms": [
+    "bold",
+    "daring",
+    "brazen"
+   ],
+   "example": "The audacious plan to cross the ocean on a raft shocked everyone.",
+   "note": "",
+   "batch": 3,
+   "lists": 10,
+   "score": 9.0,
+   "zipf": 2.95
+  },
+  "disingenuous": {
+   "pos": "adj.",
+   "definition": "not candid or sincere; pretending to know less than one does",
+   "synonyms": [
+    "insincere",
+    "feigned",
+    "artful"
+   ],
+   "example": "It was disingenuous of her to claim surprise at a decision she herself had made.",
+   "note": "",
+   "batch": 3,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.95
+  },
+  "anomalous": {
+   "pos": "adj.",
+   "definition": "deviating from what is normal or expected",
+   "synonyms": [
+    "irregular",
+    "aberrant",
+    "atypical"
+   ],
+   "example": "The anomalous results suggested a flaw in the experiment.",
+   "note": "",
+   "batch": 3,
+   "lists": 7,
+   "score": 5.5,
+   "zipf": 2.94
+  },
+  "censure": {
+   "pos": "n./v.",
+   "definition": "strong, formal disapproval; to criticize harshly",
+   "synonyms": [
+    "rebuke",
+    "condemnation",
+    "reprimand"
+   ],
+   "example": "The senator was censured by his colleagues for misusing campaign funds.",
+   "note": "",
+   "batch": 3,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.94
+  },
+  "reproach": {
+   "pos": "v./n.",
+   "definition": "to express disapproval or disappointment; blame",
+   "synonyms": [
+    "rebuke",
+    "admonish",
+    "chide"
+   ],
+   "example": "She reproached her son for forgetting his promise.",
+   "note": "",
+   "batch": 3,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.94
+  },
+  "tacit": {
+   "pos": "adj.",
+   "definition": "understood or implied without being stated",
+   "synonyms": [
+    "implicit",
+    "unspoken",
+    "implied"
+   ],
+   "example": "Silence on the matter was taken as tacit agreement.",
+   "note": "",
+   "batch": 3,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 2.94
+  },
+  "veracity": {
+   "pos": "n.",
+   "definition": "accuracy; truthfulness",
+   "synonyms": [
+    "truthfulness",
+    "honesty",
+    "accuracy"
+   ],
+   "example": "The journalist checked the veracity of every claim.",
+   "note": "",
+   "batch": 3,
+   "lists": 10,
+   "score": 9.0,
+   "zipf": 2.94
+  },
+  "dogmatic": {
+   "pos": "adj.",
+   "definition": "asserting opinions as undeniable truth; inflexible in belief",
+   "synonyms": [
+    "doctrinaire",
+    "opinionated",
+    "authoritarian"
+   ],
+   "example": "His dogmatic insistence that he alone was right ended the discussion.",
+   "note": "",
+   "batch": 4,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 2.93
+  },
+  "corroborate": {
+   "pos": "v.",
+   "definition": "to confirm or support with additional evidence",
+   "synonyms": [
+    "confirm",
+    "substantiate",
+    "verify"
+   ],
+   "example": "Two independent witnesses corroborated her account.",
+   "note": "",
+   "batch": 4,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 2.92
+  },
+  "euphemism": {
+   "pos": "n.",
+   "definition": "a mild or indirect word used in place of one considered too harsh or blunt",
+   "synonyms": [
+    "circumlocution",
+    "softened term",
+    "polite term"
+   ],
+   "example": "\"Passed away\" is a common euphemism for \"died.\"",
+   "note": "",
+   "batch": 4,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.92
+  },
+  "exacerbate": {
+   "pos": "v.",
+   "definition": "to make a problem or bad situation worse",
+   "synonyms": [
+    "aggravate",
+    "worsen",
+    "intensify"
+   ],
+   "example": "Scratching the rash only exacerbated the irritation.",
+   "note": "",
+   "batch": 4,
+   "lists": 9,
+   "score": 8.5,
+   "zipf": 2.92
+  },
+  "malevolent": {
+   "pos": "adj.",
+   "definition": "having or showing a wish to do evil to others",
+   "synonyms": [
+    "malicious",
+    "spiteful",
+    "malign"
+   ],
+   "example": "The villain cast a malevolent glare at the hero.",
+   "note": "",
+   "batch": 4,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 2.92
+  },
+  "onerous": {
+   "pos": "adj.",
+   "definition": "burdensome; requiring heavy effort",
+   "synonyms": [
+    "burdensome",
+    "oppressive",
+    "taxing"
+   ],
+   "example": "The new regulations imposed onerous paperwork on small businesses.",
+   "note": "",
+   "batch": 4,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 2.92
+  },
+  "prodigal": {
+   "pos": "adj.",
+   "definition": "spending money recklessly and wastefully; lavish (n.: a wasteful spender)",
+   "synonyms": [
+    "wasteful",
+    "profligate",
+    "extravagant"
+   ],
+   "example": "The prodigal heir squandered his fortune within a decade.",
+   "note": "Easily confused with prodigious (huge). Prodigal = wasteful.",
+   "batch": 4,
+   "lists": 9,
+   "score": 8.5,
+   "zipf": 2.92
+  },
+  "prodigious": {
+   "pos": "adj.",
+   "definition": "remarkably great in size, extent, or degree",
+   "synonyms": [
+    "enormous",
+    "vast",
+    "staggering"
+   ],
+   "example": "Mozart displayed a prodigious talent from early childhood.",
+   "note": "Easily confused with prodigal (wasteful).",
+   "batch": 4,
+   "lists": 6,
+   "score": 5.0,
+   "zipf": 2.92
+  },
+  "disinterested": {
+   "pos": "adj.",
+   "definition": "impartial; having no personal stake in the outcome",
+   "synonyms": [
+    "impartial",
+    "neutral",
+    "unbiased"
+   ],
+   "example": "We need a disinterested judge who has no financial stake in the outcome.",
+   "note": "Not the same as uninterested (bored, not caring). The GRE tests exactly this distinction.",
+   "batch": 4,
+   "lists": 7,
+   "score": 6.0,
+   "zipf": 2.91
+  },
+  "amenable": {
+   "pos": "adj.",
+   "definition": "open and responsive to suggestion or persuasion; cooperative",
+   "synonyms": [
+    "agreeable",
+    "compliant",
+    "tractable"
+   ],
+   "example": "The board was amenable to revising the schedule.",
+   "note": "",
+   "batch": 4,
+   "lists": 8,
+   "score": 7.0,
+   "zipf": 2.89
+  },
+  "banal": {
+   "pos": "adj.",
+   "definition": "so lacking in originality as to be boring; trite",
+   "synonyms": [
+    "trite",
+    "hackneyed",
+    "humdrum"
+   ],
+   "example": "The film's banal dialogue could have come from a thousand other movies.",
+   "note": "",
+   "batch": 4,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.88
+  },
+  "decorum": {
+   "pos": "n.",
+   "definition": "polite, proper behavior; propriety",
+   "synonyms": [
+    "propriety",
+    "etiquette",
+    "decency"
+   ],
+   "example": "The judge demanded decorum in the courtroom.",
+   "note": "",
+   "batch": 4,
+   "lists": 7,
+   "score": 5.5,
+   "zipf": 2.87
+  },
+  "pernicious": {
+   "pos": "adj.",
+   "definition": "harmful in a gradual or subtle way",
+   "synonyms": [
+    "destructive",
+    "harmful",
+    "noxious"
+   ],
+   "example": "The pernicious rumor slowly eroded the company's reputation.",
+   "note": "",
+   "batch": 4,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.87
+  },
+  "rescind": {
+   "pos": "v.",
+   "definition": "to revoke, cancel, or repeal officially",
+   "synonyms": [
+    "revoke",
+    "repeal",
+    "annul"
+   ],
+   "example": "The university rescinded the offer after discovering the false claims on his application.",
+   "note": "",
+   "batch": 4,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.87
+  },
+  "tirade": {
+   "pos": "n.",
+   "definition": "a long, angry, critical speech",
+   "synonyms": [
+    "harangue",
+    "diatribe",
+    "rant"
+   ],
+   "example": "The coach launched into a tirade against the referee.",
+   "note": "",
+   "batch": 4,
+   "lists": 6,
+   "score": 4.5,
+   "zipf": 2.87
+  },
+  "presumptuous": {
+   "pos": "adj.",
+   "definition": "failing to observe the limits of what is appropriate; overly bold or confident",
+   "synonyms": [
+    "arrogant",
+    "forward",
+    "impertinent"
+   ],
+   "example": "It was presumptuous of the intern to rewrite the director's speech.",
+   "note": "",
+   "batch": 4,
+   "lists": 6,
+   "score": 4.5,
+   "zipf": 2.86
+  },
+  "immutable": {
+   "pos": "adj.",
+   "definition": "unchanging over time; unable to be changed",
+   "synonyms": [
+    "unchangeable",
+    "unalterable",
+    "fixed"
+   ],
+   "example": "Newton believed the laws of nature were immutable.",
+   "note": "",
+   "batch": 4,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.85
+  },
+  "commensurate": {
+   "pos": "adj.",
+   "definition": "corresponding in size, amount, or degree; proportionate",
+   "synonyms": [
+    "proportionate",
+    "equivalent",
+    "comparable"
+   ],
+   "example": "The salary offered was commensurate with her experience.",
+   "note": "",
+   "batch": 4,
+   "lists": 8,
+   "score": 6.5,
+   "zipf": 2.83
+  },
+  "itinerant": {
+   "pos": "adj.",
+   "definition": "traveling from place to place, especially for work",
+   "synonyms": [
+    "wandering",
+    "nomadic",
+    "peripatetic"
+   ],
+   "example": "The itinerant preacher moved from town to town.",
+   "note": "",
+   "batch": 4,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 2.82
+  },
+  "malleable": {
+   "pos": "adj.",
+   "definition": "easily shaped or influenced; pliable",
+   "synonyms": [
+    "pliable",
+    "plastic",
+    "ductile"
+   ],
+   "example": "Gold is malleable enough to be hammered into thin sheets.",
+   "note": "",
+   "batch": 4,
+   "lists": 8,
+   "score": 7.0,
+   "zipf": 2.82
+  },
+  "mercurial": {
+   "pos": "adj.",
+   "definition": "subject to sudden, unpredictable changes of mood",
+   "synonyms": [
+    "volatile",
+    "fickle",
+    "capricious"
+   ],
+   "example": "The mercurial director could be charming at breakfast and furious by lunch.",
+   "note": "",
+   "batch": 4,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.82
+  },
+  "ascetic": {
+   "pos": "adj.",
+   "definition": "practicing severe self-discipline and avoiding indulgence (n.: such a person)",
+   "synonyms": [
+    "abstemious",
+    "austere",
+    "self-denying"
+   ],
+   "example": "He led an ascetic life, eating only bread and water.",
+   "note": "",
+   "batch": 4,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 2.81
+  },
+  "capricious": {
+   "pos": "adj.",
+   "definition": "given to sudden, unpredictable changes of mind or behavior",
+   "synonyms": [
+    "whimsical",
+    "fickle",
+    "erratic"
+   ],
+   "example": "The capricious king banished a minister one day and rewarded him the next.",
+   "note": "",
+   "batch": 4,
+   "lists": 10,
+   "score": 9.0,
+   "zipf": 2.79
+  },
+  "extraneous": {
+   "pos": "adj.",
+   "definition": "irrelevant or unrelated to the subject; not essential",
+   "synonyms": [
+    "irrelevant",
+    "immaterial",
+    "superfluous"
+   ],
+   "example": "Delete the extraneous details so the summary stays focused.",
+   "note": "",
+   "batch": 4,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.79
+  },
+  "propriety": {
+   "pos": "n.",
+   "definition": "conformity to accepted standards of behavior or morals",
+   "synonyms": [
+    "decorum",
+    "correctness",
+    "seemliness"
+   ],
+   "example": "She was careful to observe the proprieties at the formal dinner.",
+   "note": "",
+   "batch": 4,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 2.79
+  },
+  "dupe": {
+   "pos": "v.",
+   "definition": "to deceive or trick (n.: a person who is easily tricked)",
+   "synonyms": [
+    "deceive",
+    "hoodwink",
+    "fool"
+   ],
+   "example": "The con artist duped hundreds of investors.",
+   "note": "",
+   "batch": 5,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 2.78
+  },
+  "precipitate": {
+   "pos": "v./adj.",
+   "definition": "v.: to cause something to happen suddenly or too soon; adj.: done hastily, rash",
+   "synonyms": [
+    "trigger",
+    "hasten",
+    "rash"
+   ],
+   "example": "The scandal precipitated the minister's resignation.",
+   "note": "",
+   "batch": 5,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.78
+  },
+  "placate": {
+   "pos": "v.",
+   "definition": "to calm or soothe someone's anger",
+   "synonyms": [
+    "appease",
+    "mollify",
+    "pacify"
+   ],
+   "example": "A sincere apology placated the angry customer.",
+   "note": "",
+   "batch": 5,
+   "lists": 8,
+   "score": 6.0,
+   "zipf": 2.77
+  },
+  "conciliatory": {
+   "pos": "adj.",
+   "definition": "intended to calm anger or end a dispute",
+   "synonyms": [
+    "appeasing",
+    "placating",
+    "pacifying"
+   ],
+   "example": "The CEO adopted a conciliatory tone to defuse the dispute.",
+   "note": "",
+   "batch": 5,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 2.76
+  },
+  "erudite": {
+   "pos": "adj.",
+   "definition": "having or showing great learning",
+   "synonyms": [
+    "learned",
+    "scholarly",
+    "well-read"
+   ],
+   "example": "The erudite professor quoted Latin as casually as most people quote movies.",
+   "note": "",
+   "batch": 5,
+   "lists": 6,
+   "score": 5.0,
+   "zipf": 2.75
+  },
+  "didactic": {
+   "pos": "adj.",
+   "definition": "intended to teach, often in an overly moralizing way",
+   "synonyms": [
+    "instructive",
+    "edifying",
+    "preachy"
+   ],
+   "example": "The novel was so didactic that readers felt they were being lectured.",
+   "note": "",
+   "batch": 5,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.74
+  },
+  "obstinate": {
+   "pos": "adj.",
+   "definition": "stubbornly refusing to change one's opinion or course of action",
+   "synonyms": [
+    "stubborn",
+    "intransigent",
+    "obdurate"
+   ],
+   "example": "The obstinate mule would not budge despite the farmer's coaxing.",
+   "note": "",
+   "batch": 5,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 2.73
+  },
+  "petulant": {
+   "pos": "adj.",
+   "definition": "childishly sulky or bad-tempered",
+   "synonyms": [
+    "peevish",
+    "sulky",
+    "querulous"
+   ],
+   "example": "The petulant child threw his toys when told it was bedtime.",
+   "note": "",
+   "batch": 5,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 2.73
+  },
+  "deleterious": {
+   "pos": "adj.",
+   "definition": "causing harm or damage",
+   "synonyms": [
+    "harmful",
+    "damaging",
+    "detrimental"
+   ],
+   "example": "Prolonged lack of sleep has a deleterious effect on memory.",
+   "note": "",
+   "batch": 5,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 2.72
+  },
+  "cogent": {
+   "pos": "adj.",
+   "definition": "clear, logical, and convincing",
+   "synonyms": [
+    "persuasive",
+    "compelling",
+    "forceful"
+   ],
+   "example": "She presented a cogent argument that won over the skeptics.",
+   "note": "",
+   "batch": 5,
+   "lists": 9,
+   "score": 8.0,
+   "zipf": 2.71
+  },
+  "gregarious": {
+   "pos": "adj.",
+   "definition": "fond of company; sociable",
+   "synonyms": [
+    "sociable",
+    "outgoing",
+    "convivial"
+   ],
+   "example": "The gregarious host made sure every guest felt welcome.",
+   "note": "",
+   "batch": 5,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 2.71
+  },
+  "antipathy": {
+   "pos": "n.",
+   "definition": "a deep-seated feeling of dislike",
+   "synonyms": [
+    "aversion",
+    "animosity",
+    "hostility"
+   ],
+   "example": "There was a long-standing antipathy between the two rival families.",
+   "note": "",
+   "batch": 5,
+   "lists": 9,
+   "score": 8.5,
+   "zipf": 2.7
+  },
+  "elucidate": {
+   "pos": "v.",
+   "definition": "to make clear; explain",
+   "synonyms": [
+    "clarify",
+    "explicate",
+    "illuminate"
+   ],
+   "example": "The professor used diagrams to elucidate the difficult concept.",
+   "note": "",
+   "batch": 5,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.7
+  },
+  "aberrant": {
+   "pos": "adj.",
+   "definition": "departing from the usual or expected course",
+   "synonyms": [
+    "deviant",
+    "anomalous",
+    "abnormal"
+   ],
+   "example": "The patient's aberrant behavior puzzled the doctors.",
+   "note": "",
+   "batch": 5,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.69
+  },
+  "anachronistic": {
+   "pos": "adj.",
+   "definition": "belonging to a time other than the one in which it appears; out of date",
+   "synonyms": [
+    "outdated",
+    "archaic",
+    "out of place"
+   ],
+   "example": "A wristwatch in a film about ancient Rome would be glaringly anachronistic.",
+   "note": "",
+   "batch": 5,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 2.69
+  },
+  "incongruous": {
+   "pos": "adj.",
+   "definition": "out of place; not in harmony with its surroundings",
+   "synonyms": [
+    "inappropriate",
+    "discordant",
+    "incompatible"
+   ],
+   "example": "A neon sign looked incongruous against the medieval stonework.",
+   "note": "",
+   "batch": 5,
+   "lists": 6,
+   "score": 4.5,
+   "zipf": 2.69
+  },
+  "proliferate": {
+   "pos": "v.",
+   "definition": "to increase rapidly in number",
+   "synonyms": [
+    "multiply",
+    "burgeon",
+    "mushroom"
+   ],
+   "example": "Coffee shops have proliferated in the neighborhood.",
+   "note": "",
+   "batch": 5,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 2.69
+  },
+  "fortuitous": {
+   "pos": "adj.",
+   "definition": "happening by chance, especially by lucky chance",
+   "synonyms": [
+    "accidental",
+    "chance",
+    "serendipitous"
+   ],
+   "example": "Their meeting was entirely fortuitous; neither had planned to attend.",
+   "note": "Strictly means \"by chance\", not \"fortunate\", though it is often lucky.",
+   "batch": 5,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.68
+  },
+  "ostentatious": {
+   "pos": "adj.",
+   "definition": "showy; designed to impress or attract notice",
+   "synonyms": [
+    "flamboyant",
+    "showy",
+    "pretentious"
+   ],
+   "example": "The oligarch's ostentatious mansion had gold-plated faucets.",
+   "note": "",
+   "batch": 5,
+   "lists": 7,
+   "score": 5.5,
+   "zipf": 2.68
+  },
+  "panache": {
+   "pos": "n.",
+   "definition": "flamboyant confidence of style or manner",
+   "synonyms": [
+    "flair",
+    "dash",
+    "elan"
+   ],
+   "example": "She delivered the speech with panache.",
+   "note": "",
+   "batch": 5,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.66
+  },
+  "pedantic": {
+   "pos": "adj.",
+   "definition": "excessively concerned with minor details or rules, or showing off learning",
+   "synonyms": [
+    "fussy",
+    "punctilious",
+    "nitpicking"
+   ],
+   "example": "His pedantic insistence on correcting everyone's grammar annoyed his friends.",
+   "note": "",
+   "batch": 5,
+   "lists": 10,
+   "score": 9.0,
+   "zipf": 2.66
+  },
+  "confound": {
+   "pos": "v.",
+   "definition": "to confuse or astonish; also, to prove wrong",
+   "synonyms": [
+    "bewilder",
+    "perplex",
+    "baffle"
+   ],
+   "example": "The results confounded the researchers' expectations.",
+   "note": "",
+   "batch": 5,
+   "lists": 6,
+   "score": 5.0,
+   "zipf": 2.65
+  },
+  "tortuous": {
+   "pos": "adj.",
+   "definition": "full of twists and turns; excessively complicated",
+   "synonyms": [
+    "winding",
+    "convoluted",
+    "circuitous"
+   ],
+   "example": "The tortuous mountain road made her carsick.",
+   "note": "Not torturous (causing torture or great pain).",
+   "batch": 5,
+   "lists": 7,
+   "score": 6.0,
+   "zipf": 2.65
+  },
+  "fallacious": {
+   "pos": "adj.",
+   "definition": "based on a mistaken belief or faulty reasoning",
+   "synonyms": [
+    "erroneous",
+    "illogical",
+    "specious"
+   ],
+   "example": "The argument is fallacious because it assumes what it is trying to prove.",
+   "note": "",
+   "batch": 5,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.64
+  },
+  "fastidious": {
+   "pos": "adj.",
+   "definition": "very attentive to detail; hard to please",
+   "synonyms": [
+    "meticulous",
+    "finicky",
+    "particular"
+   ],
+   "example": "He was so fastidious about cleanliness that he wiped each fork twice.",
+   "note": "",
+   "batch": 5,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 2.64
+  },
+  "glib": {
+   "pos": "adj.",
+   "definition": "fluent but insincere or superficial",
+   "synonyms": [
+    "slick",
+    "facile",
+    "smooth-tongued"
+   ],
+   "example": "The salesman's glib assurances did not convince her.",
+   "note": "",
+   "batch": 6,
+   "lists": 7,
+   "score": 6.0,
+   "zipf": 2.64
+  },
+  "insipid": {
+   "pos": "adj.",
+   "definition": "lacking flavor, vigor, or interest",
+   "synonyms": [
+    "bland",
+    "dull",
+    "vapid"
+   ],
+   "example": "The soup was thin and insipid, as was the conversation.",
+   "note": "",
+   "batch": 6,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.64
+  },
+  "myopic": {
+   "pos": "adj.",
+   "definition": "short-sighted, literally or in lacking foresight",
+   "synonyms": [
+    "short-sighted",
+    "narrow",
+    "unimaginative"
+   ],
+   "example": "The myopic policy solved this year's deficit but ignored long-term costs.",
+   "note": "",
+   "batch": 6,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.64
+  },
+  "assuage": {
+   "pos": "v.",
+   "definition": "to make (pain, fear, anger) less intense",
+   "synonyms": [
+    "alleviate",
+    "soothe",
+    "allay"
+   ],
+   "example": "A warm bath assuaged her aching muscles.",
+   "note": "",
+   "batch": 6,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.63
+  },
+  "bombastic": {
+   "pos": "adj.",
+   "definition": "high-sounding but with little meaning; pompous",
+   "synonyms": [
+    "pompous",
+    "inflated",
+    "grandiose"
+   ],
+   "example": "The senator's bombastic speech was full of grand phrases and empty of ideas.",
+   "note": "",
+   "batch": 6,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 2.63
+  },
+  "coalesce": {
+   "pos": "v.",
+   "definition": "to come together to form one mass or whole",
+   "synonyms": [
+    "merge",
+    "unite",
+    "fuse"
+   ],
+   "example": "Scattered protests coalesced into a nationwide movement.",
+   "note": "",
+   "batch": 6,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 2.63
+  },
+  "engender": {
+   "pos": "v.",
+   "definition": "to cause or give rise to (a feeling or situation)",
+   "synonyms": [
+    "produce",
+    "generate",
+    "foster"
+   ],
+   "example": "Unfair treatment engenders resentment among employees.",
+   "note": "",
+   "batch": 6,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.63
+  },
+  "reticent": {
+   "pos": "adj.",
+   "definition": "reluctant to speak or share thoughts; reserved",
+   "synonyms": [
+    "reserved",
+    "taciturn",
+    "restrained"
+   ],
+   "example": "He was reticent about his past and never mentioned his family.",
+   "note": "",
+   "batch": 6,
+   "lists": 9,
+   "score": 8.0,
+   "zipf": 2.62
+  },
+  "exonerate": {
+   "pos": "v.",
+   "definition": "to clear of blame or accusation",
+   "synonyms": [
+    "absolve",
+    "exculpate",
+    "acquit"
+   ],
+   "example": "DNA evidence exonerated the man after twenty years in prison.",
+   "note": "",
+   "batch": 6,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.61
+  },
+  "implacable": {
+   "pos": "adj.",
+   "definition": "unable to be appeased or pacified; relentless",
+   "synonyms": [
+    "unappeasable",
+    "relentless",
+    "unyielding"
+   ],
+   "example": "The implacable critic refused to praise even the finest performance.",
+   "note": "",
+   "batch": 6,
+   "lists": 10,
+   "score": 9.0,
+   "zipf": 2.61
+  },
+  "magnanimous": {
+   "pos": "adj.",
+   "definition": "generous and forgiving, especially toward a rival or someone less powerful",
+   "synonyms": [
+    "generous",
+    "charitable",
+    "big-hearted"
+   ],
+   "example": "The magnanimous champion praised the opponent he had just defeated.",
+   "note": "",
+   "batch": 6,
+   "lists": 8,
+   "score": 8.0,
+   "zipf": 2.61
+  },
+  "paucity": {
+   "pos": "n.",
+   "definition": "scarcity; a smallness of number or quantity",
+   "synonyms": [
+    "dearth",
+    "scarcity",
+    "shortage"
+   ],
+   "example": "A paucity of evidence forced the prosecutors to drop the case.",
+   "note": "",
+   "batch": 6,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.61
+  },
+  "laud": {
+   "pos": "v.",
+   "definition": "to praise highly",
+   "synonyms": [
+    "praise",
+    "extol",
+    "acclaim"
+   ],
+   "example": "Critics lauded the novel as a masterpiece.",
+   "note": "",
+   "batch": 6,
+   "lists": 8,
+   "score": 8.0,
+   "zipf": 2.6
+  },
+  "levity": {
+   "pos": "n.",
+   "definition": "humor or lack of seriousness, especially at an inappropriate time",
+   "synonyms": [
+    "frivolity",
+    "flippancy",
+    "jocularity"
+   ],
+   "example": "A moment of levity eased the tension in the meeting.",
+   "note": "",
+   "batch": 6,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.6
+  },
+  "denigrate": {
+   "pos": "v.",
+   "definition": "to criticize unfairly; belittle",
+   "synonyms": [
+    "disparage",
+    "belittle",
+    "defame"
+   ],
+   "example": "She never denigrated her rivals, preferring to let her work speak for itself.",
+   "note": "",
+   "batch": 6,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.59
+  },
+  "diatribe": {
+   "pos": "n.",
+   "definition": "a forceful, bitter verbal attack",
+   "synonyms": [
+    "tirade",
+    "harangue",
+    "invective"
+   ],
+   "example": "His diatribe against the new policy lasted nearly an hour.",
+   "note": "",
+   "batch": 6,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.58
+  },
+  "disparage": {
+   "pos": "v.",
+   "definition": "to speak of as being of little value; belittle",
+   "synonyms": [
+    "belittle",
+    "denigrate",
+    "deprecate"
+   ],
+   "example": "It is unprofessional to disparage a colleague's work in front of clients.",
+   "note": "",
+   "batch": 6,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.58
+  },
+  "eschew": {
+   "pos": "v.",
+   "definition": "to deliberately avoid or abstain from",
+   "synonyms": [
+    "shun",
+    "forgo",
+    "avoid"
+   ],
+   "example": "She eschews fast food and cooks every meal from scratch.",
+   "note": "",
+   "batch": 6,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.57
+  },
+  "scrupulous": {
+   "pos": "adj.",
+   "definition": "extremely careful and thorough; strictly honest",
+   "synonyms": [
+    "meticulous",
+    "conscientious",
+    "principled"
+   ],
+   "example": "The accountant was scrupulous in recording every transaction.",
+   "note": "",
+   "batch": 6,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.57
+  },
+  "ameliorate": {
+   "pos": "v.",
+   "definition": "to make a bad situation better",
+   "synonyms": [
+    "improve",
+    "remedy",
+    "alleviate"
+   ],
+   "example": "Government aid did little to ameliorate the plight of the displaced.",
+   "note": "",
+   "batch": 6,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.56
+  },
+  "delineate": {
+   "pos": "v.",
+   "definition": "to describe or portray precisely; to outline",
+   "synonyms": [
+    "depict",
+    "outline",
+    "define"
+   ],
+   "example": "The report delineates each department's responsibilities.",
+   "note": "",
+   "batch": 6,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 2.56
+  },
+  "supplant": {
+   "pos": "v.",
+   "definition": "to replace, especially by force or by being superior",
+   "synonyms": [
+    "displace",
+    "supersede",
+    "replace"
+   ],
+   "example": "Digital cameras supplanted film in less than a decade.",
+   "note": "",
+   "batch": 6,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.56
+  },
+  "efficacious": {
+   "pos": "adj.",
+   "definition": "successful in producing the desired result; effective",
+   "synonyms": [
+    "effective",
+    "potent",
+    "effectual"
+   ],
+   "example": "Aspirin is efficacious for relieving mild pain.",
+   "note": "",
+   "batch": 6,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 2.55
+  },
+  "recalcitrant": {
+   "pos": "adj.",
+   "definition": "stubbornly resistant to authority or control",
+   "synonyms": [
+    "defiant",
+    "obstinate",
+    "unruly"
+   ],
+   "example": "The recalcitrant student refused to follow even the simplest rules.",
+   "note": "",
+   "batch": 6,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.55
+  },
+  "languid": {
+   "pos": "adj.",
+   "definition": "lacking energy or vitality; slow and relaxed",
+   "synonyms": [
+    "listless",
+    "sluggish",
+    "lethargic"
+   ],
+   "example": "In the heat, we spent a languid afternoon in hammocks.",
+   "note": "",
+   "batch": 6,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 2.54
+  },
+  "predilection": {
+   "pos": "n.",
+   "definition": "a preference or special liking for something",
+   "synonyms": [
+    "preference",
+    "partiality",
+    "proclivity"
+   ],
+   "example": "She has a predilection for mystery novels.",
+   "note": "",
+   "batch": 7,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.52
+  },
+  "facetious": {
+   "pos": "adj.",
+   "definition": "treating serious matters with inappropriate humor; flippant",
+   "synonyms": [
+    "flippant",
+    "jocular",
+    "tongue-in-cheek"
+   ],
+   "example": "I was being facetious when I suggested we cancel the exam; of course we can't.",
+   "note": "",
+   "batch": 7,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.51
+  },
+  "avarice": {
+   "pos": "n.",
+   "definition": "extreme greed for wealth",
+   "synonyms": [
+    "greed",
+    "cupidity",
+    "rapacity"
+   ],
+   "example": "The miser's avarice drove him to count every penny twice.",
+   "note": "",
+   "batch": 7,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.5
+  },
+  "furtive": {
+   "pos": "adj.",
+   "definition": "attempting to avoid notice; secretive",
+   "synonyms": [
+    "stealthy",
+    "surreptitious",
+    "clandestine"
+   ],
+   "example": "He cast a furtive glance at his neighbor's answer sheet.",
+   "note": "",
+   "batch": 7,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.49
+  },
+  "polemical": {
+   "pos": "adj.",
+   "definition": "involving or given to strong controversial argument",
+   "synonyms": [
+    "contentious",
+    "argumentative",
+    "controversial"
+   ],
+   "example": "The essay was a polemical attack on the education system.",
+   "note": "",
+   "batch": 7,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.49
+  },
+  "contrite": {
+   "pos": "adj.",
+   "definition": "feeling or expressing remorse for wrongdoing",
+   "synonyms": [
+    "remorseful",
+    "repentant",
+    "penitent"
+   ],
+   "example": "The contrite boy promised never to lie again.",
+   "note": "",
+   "batch": 7,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.48
+  },
+  "relegate": {
+   "pos": "v.",
+   "definition": "to assign to a lower or less important position",
+   "synonyms": [
+    "demote",
+    "consign",
+    "downgrade"
+   ],
+   "example": "Budget cuts relegated the arts program to an afterthought.",
+   "note": "",
+   "batch": 7,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 2.47
+  },
+  "circumspect": {
+   "pos": "adj.",
+   "definition": "cautious; careful to consider all circumstances and consequences",
+   "synonyms": [
+    "cautious",
+    "prudent",
+    "wary"
+   ],
+   "example": "Given the political tension, the diplomat was circumspect in her remarks.",
+   "note": "",
+   "batch": 7,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 2.46
+  },
+  "reverent": {
+   "pos": "adj.",
+   "definition": "showing deep and solemn respect",
+   "synonyms": [
+    "respectful",
+    "devout",
+    "deferential"
+   ],
+   "example": "The pilgrims entered the shrine in reverent silence.",
+   "note": "",
+   "batch": 7,
+   "lists": 6,
+   "score": 4.5,
+   "zipf": 2.46
+  },
+  "belie": {
+   "pos": "v.",
+   "definition": "to contradict or give a false impression of",
+   "synonyms": [
+    "contradict",
+    "misrepresent",
+    "disguise"
+   ],
+   "example": "His calm tone belied the anger he felt.",
+   "note": "",
+   "batch": 7,
+   "lists": 9,
+   "score": 7.0,
+   "zipf": 2.45
+  },
+  "perfunctory": {
+   "pos": "adj.",
+   "definition": "done routinely with minimal effort or interest",
+   "synonyms": [
+    "cursory",
+    "superficial",
+    "mechanical"
+   ],
+   "example": "The inspector gave the building a perfunctory glance and signed off.",
+   "note": "",
+   "batch": 7,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 2.45
+  },
+  "repudiate": {
+   "pos": "v.",
+   "definition": "to refuse to accept or be associated with; to reject as untrue",
+   "synonyms": [
+    "reject",
+    "disavow",
+    "renounce"
+   ],
+   "example": "The candidate repudiated the extremist views of his supporter.",
+   "note": "",
+   "batch": 7,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.45
+  },
+  "specious": {
+   "pos": "adj.",
+   "definition": "seemingly plausible but actually false or flawed",
+   "synonyms": [
+    "misleading",
+    "fallacious",
+    "spurious"
+   ],
+   "example": "The lawyer's specious argument sounded convincing but collapsed under scrutiny.",
+   "note": "",
+   "batch": 7,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.45
+  },
+  "vociferous": {
+   "pos": "adj.",
+   "definition": "expressing opinions loudly and forcefully",
+   "synonyms": [
+    "loud",
+    "clamorous",
+    "vehement"
+   ],
+   "example": "The mayor faced vociferous opposition at the town meeting.",
+   "note": "",
+   "batch": 7,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 2.45
+  },
+  "bucolic": {
+   "pos": "adj.",
+   "definition": "relating to pleasant rural or pastoral life",
+   "synonyms": [
+    "pastoral",
+    "rustic",
+    "rural"
+   ],
+   "example": "The painting shows a bucolic scene of shepherds and meadows.",
+   "note": "",
+   "batch": 7,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.44
+  },
+  "morose": {
+   "pos": "adj.",
+   "definition": "sullen, gloomy, and withdrawn",
+   "synonyms": [
+    "gloomy",
+    "sullen",
+    "dour"
+   ],
+   "example": "He sat in morose silence after losing his job.",
+   "note": "",
+   "batch": 7,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.44
+  },
+  "verbose": {
+   "pos": "adj.",
+   "definition": "using more words than needed",
+   "synonyms": [
+    "wordy",
+    "prolix",
+    "long-winded"
+   ],
+   "example": "The verbose report could have been shortened to two pages.",
+   "note": "",
+   "batch": 7,
+   "lists": 5,
+   "score": 5.5,
+   "zipf": 2.44
+  },
+  "deride": {
+   "pos": "v.",
+   "definition": "to ridicule; to speak of with contempt",
+   "synonyms": [
+    "mock",
+    "scoff at",
+    "ridicule"
+   ],
+   "example": "Skeptics derided the inventor's plan as absurd.",
+   "note": "",
+   "batch": 7,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.4
+  },
+  "foment": {
+   "pos": "v.",
+   "definition": "to stir up or incite (trouble, rebellion)",
+   "synonyms": [
+    "incite",
+    "instigate",
+    "provoke"
+   ],
+   "example": "Agitators fomented unrest among the workers.",
+   "note": "",
+   "batch": 7,
+   "lists": 6,
+   "score": 5.0,
+   "zipf": 2.4
+  },
+  "hackneyed": {
+   "pos": "adj.",
+   "definition": "made trite by overuse",
+   "synonyms": [
+    "clichéd",
+    "trite",
+    "banal"
+   ],
+   "example": "\"Love at first sight\" is a hackneyed plot device.",
+   "note": "",
+   "batch": 7,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.4
+  },
+  "laconic": {
+   "pos": "adj.",
+   "definition": "using very few words",
+   "synonyms": [
+    "terse",
+    "succinct",
+    "concise"
+   ],
+   "example": "His laconic reply, \"Fine,\" told her nothing.",
+   "note": "",
+   "batch": 7,
+   "lists": 8,
+   "score": 8.0,
+   "zipf": 2.39
+  },
+  "probity": {
+   "pos": "n.",
+   "definition": "strong moral principles; honesty and integrity",
+   "synonyms": [
+    "integrity",
+    "rectitude",
+    "honesty"
+   ],
+   "example": "The judge was known for his probity.",
+   "note": "",
+   "batch": 7,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 2.39
+  },
+  "dirge": {
+   "pos": "n.",
+   "definition": "a slow, mournful song or lament",
+   "synonyms": [
+    "lament",
+    "elegy",
+    "requiem"
+   ],
+   "example": "The band played a dirge as the procession passed.",
+   "note": "",
+   "batch": 7,
+   "lists": 5,
+   "score": 5.5,
+   "zipf": 2.38
+  },
+  "profligate": {
+   "pos": "adj.",
+   "definition": "recklessly extravagant or wasteful (n.: a wasteful person)",
+   "synonyms": [
+    "wasteful",
+    "prodigal",
+    "spendthrift"
+   ],
+   "example": "The profligate duke gambled away the family estate.",
+   "note": "",
+   "batch": 7,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 2.37
+  },
+  "restive": {
+   "pos": "adj.",
+   "definition": "unable to stay still or be controlled; restless",
+   "synonyms": [
+    "restless",
+    "fidgety",
+    "unruly"
+   ],
+   "example": "The restive crowd began to shout when the speaker was late.",
+   "note": "",
+   "batch": 7,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.37
+  },
+  "taciturn": {
+   "pos": "adj.",
+   "definition": "habitually reserved and saying little",
+   "synonyms": [
+    "reticent",
+    "laconic",
+    "uncommunicative"
+   ],
+   "example": "The taciturn farmer answered most questions with a nod.",
+   "note": "",
+   "batch": 8,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.37
+  },
+  "torpor": {
+   "pos": "n.",
+   "definition": "a state of physical or mental inactivity; sluggishness",
+   "synonyms": [
+    "lethargy",
+    "languor",
+    "inertia"
+   ],
+   "example": "After the huge meal, a pleasant torpor settled over the guests.",
+   "note": "",
+   "batch": 8,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 2.37
+  },
+  "abeyance": {
+   "pos": "n.",
+   "definition": "a state of temporary inactivity or suspension",
+   "synonyms": [
+    "suspension",
+    "dormancy",
+    "latency"
+   ],
+   "example": "The plan was held in abeyance until funding was approved.",
+   "note": "",
+   "batch": 8,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.36
+  },
+  "alacrity": {
+   "pos": "n.",
+   "definition": "brisk and cheerful readiness; eagerness",
+   "synonyms": [
+    "eagerness",
+    "promptness",
+    "zeal"
+   ],
+   "example": "She accepted the invitation with alacrity.",
+   "note": "",
+   "batch": 8,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.36
+  },
+  "attenuate": {
+   "pos": "v.",
+   "definition": "to reduce in force, effect, or value; to make thinner",
+   "synonyms": [
+    "weaken",
+    "dilute",
+    "diminish"
+   ],
+   "example": "Distance attenuates the signal's strength.",
+   "note": "",
+   "batch": 8,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.35
+  },
+  "germane": {
+   "pos": "adj.",
+   "definition": "relevant to the subject at hand",
+   "synonyms": [
+    "relevant",
+    "pertinent",
+    "apposite"
+   ],
+   "example": "Please keep your comments germane to the topic of today's meeting.",
+   "note": "",
+   "batch": 8,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.33
+  },
+  "approbation": {
+   "pos": "n.",
+   "definition": "approval or praise",
+   "synonyms": [
+    "approval",
+    "endorsement",
+    "acclaim"
+   ],
+   "example": "The play won the approbation of the critics.",
+   "note": "",
+   "batch": 8,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 2.3
+  },
+  "admonish": {
+   "pos": "v.",
+   "definition": "to warn or reprimand gently but firmly",
+   "synonyms": [
+    "caution",
+    "reprimand",
+    "rebuke"
+   ],
+   "example": "The teacher admonished the class to stop talking.",
+   "note": "",
+   "batch": 8,
+   "lists": 8,
+   "score": 6.0,
+   "zipf": 2.29
+  },
+  "intransigent": {
+   "pos": "adj.",
+   "definition": "unwilling to change one's views or compromise",
+   "synonyms": [
+    "uncompromising",
+    "obdurate",
+    "unyielding"
+   ],
+   "example": "The two sides remained intransigent, and the talks collapsed.",
+   "note": "",
+   "batch": 8,
+   "lists": 9,
+   "score": 8.5,
+   "zipf": 2.29
+  },
+  "irascible": {
+   "pos": "adj.",
+   "definition": "easily angered; hot-tempered",
+   "synonyms": [
+    "irritable",
+    "testy",
+    "cantankerous"
+   ],
+   "example": "The irascible old man yelled at anyone who stepped on his lawn.",
+   "note": "",
+   "batch": 8,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.29
+  },
+  "dilettante": {
+   "pos": "n.",
+   "definition": "a person who dabbles in a subject without serious commitment",
+   "synonyms": [
+    "dabbler",
+    "amateur",
+    "trifler"
+   ],
+   "example": "A mere dilettante, he took up painting, then sculpture, then gave up both.",
+   "note": "",
+   "batch": 8,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.28
+  },
+  "venerate": {
+   "pos": "v.",
+   "definition": "to regard with great respect and reverence",
+   "synonyms": [
+    "revere",
+    "worship",
+    "honor"
+   ],
+   "example": "Many cultures venerate their ancestors.",
+   "note": "",
+   "batch": 8,
+   "lists": 7,
+   "score": 5.5,
+   "zipf": 2.28
+  },
+  "indolent": {
+   "pos": "adj.",
+   "definition": "habitually lazy; avoiding effort",
+   "synonyms": [
+    "lazy",
+    "slothful",
+    "idle"
+   ],
+   "example": "The indolent student did the minimum and slept through lectures.",
+   "note": "",
+   "batch": 8,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 2.26
+  },
+  "chicanery": {
+   "pos": "n.",
+   "definition": "the use of trickery or deception to achieve a goal",
+   "synonyms": [
+    "trickery",
+    "deception",
+    "duplicity"
+   ],
+   "example": "The firm won the contract through legal chicanery.",
+   "note": "",
+   "batch": 8,
+   "lists": 6,
+   "score": 6.5,
+   "zipf": 2.24
+  },
+  "amalgamate": {
+   "pos": "v.",
+   "definition": "to combine or unite into one organization or structure",
+   "synonyms": [
+    "merge",
+    "blend",
+    "combine"
+   ],
+   "example": "The two banks amalgamated to form a larger institution.",
+   "note": "",
+   "batch": 8,
+   "lists": 7,
+   "score": 5.5,
+   "zipf": 2.23
+  },
+  "fatuous": {
+   "pos": "adj.",
+   "definition": "silly and pointless, showing a lack of thought",
+   "synonyms": [
+    "foolish",
+    "inane",
+    "vapid"
+   ],
+   "example": "She dismissed the fatuous remark with a sigh.",
+   "note": "",
+   "batch": 8,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.23
+  },
+  "quotidian": {
+   "pos": "adj.",
+   "definition": "of or occurring every day; ordinary",
+   "synonyms": [
+    "daily",
+    "mundane",
+    "commonplace"
+   ],
+   "example": "The novel finds poetry in quotidian routines like making breakfast.",
+   "note": "",
+   "batch": 8,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.23
+  },
+  "surfeit": {
+   "pos": "n.",
+   "definition": "an excessive amount of something",
+   "synonyms": [
+    "excess",
+    "glut",
+    "superfluity"
+   ],
+   "example": "A surfeit of rich food left him feeling ill.",
+   "note": "",
+   "batch": 8,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.22
+  },
+  "tractable": {
+   "pos": "adj.",
+   "definition": "easy to control or influence; docile",
+   "synonyms": [
+    "docile",
+    "manageable",
+    "compliant"
+   ],
+   "example": "Unlike the stubborn horse, this one is gentle and tractable.",
+   "note": "",
+   "batch": 8,
+   "lists": 6,
+   "score": 5.0,
+   "zipf": 2.21
+  },
+  "aver": {
+   "pos": "v.",
+   "definition": "to state or assert confidently as a fact",
+   "synonyms": [
+    "assert",
+    "affirm",
+    "declare"
+   ],
+   "example": "The witness averred that she had never seen the defendant.",
+   "note": "Not the same as avert (to turn away or prevent).",
+   "batch": 8,
+   "lists": 6,
+   "score": 5.0,
+   "zipf": 2.2
+  },
+  "misanthrope": {
+   "pos": "n.",
+   "definition": "a person who dislikes and avoids other people",
+   "synonyms": [
+    "recluse",
+    "cynic",
+    "people-hater"
+   ],
+   "example": "The misanthrope lived alone and rarely left his house.",
+   "note": "",
+   "batch": 8,
+   "lists": 8,
+   "score": 7.0,
+   "zipf": 2.2
+  },
+  "sycophant": {
+   "pos": "n.",
+   "definition": "a person who flatters the powerful to gain advantage",
+   "synonyms": [
+    "flatterer",
+    "toady",
+    "bootlicker"
+   ],
+   "example": "The king was surrounded by sycophants who agreed with everything he said.",
+   "note": "",
+   "batch": 8,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 2.2
+  },
+  "parsimonious": {
+   "pos": "adj.",
+   "definition": "extremely unwilling to spend money; stingy",
+   "synonyms": [
+    "stingy",
+    "miserly",
+    "penurious"
+   ],
+   "example": "The parsimonious uncle reused tea bags three times.",
+   "note": "",
+   "batch": 8,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.18
+  },
+  "ebullient": {
+   "pos": "adj.",
+   "definition": "cheerful and full of energy; exuberant",
+   "synonyms": [
+    "exuberant",
+    "effervescent",
+    "buoyant"
+   ],
+   "example": "She was ebullient after winning the scholarship.",
+   "note": "",
+   "batch": 8,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 2.17
+  },
+  "inimical": {
+   "pos": "adj.",
+   "definition": "harmful or hostile; unfriendly",
+   "synonyms": [
+    "hostile",
+    "adverse",
+    "antagonistic"
+   ],
+   "example": "Policies inimical to small business will hurt the local economy.",
+   "note": "",
+   "batch": 8,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.17
+  },
+  "platitude": {
+   "pos": "n.",
+   "definition": "a trite remark presented as if it were meaningful",
+   "synonyms": [
+    "cliche",
+    "truism",
+    "banality"
+   ],
+   "example": "The speech was a string of platitudes about hard work.",
+   "note": "",
+   "batch": 9,
+   "lists": 9,
+   "score": 8.0,
+   "zipf": 2.17
+  },
+  "iconoclast": {
+   "pos": "n.",
+   "definition": "a person who attacks cherished beliefs or institutions",
+   "synonyms": [
+    "rebel",
+    "dissenter",
+    "maverick"
+   ],
+   "example": "An iconoclast, he mocked the sacred traditions of the profession.",
+   "note": "",
+   "batch": 9,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.15
+  },
+  "obsequious": {
+   "pos": "adj.",
+   "definition": "excessively eager to please or obey; fawning",
+   "synonyms": [
+    "servile",
+    "fawning",
+    "sycophantic"
+   ],
+   "example": "The obsequious waiter bowed at every request.",
+   "note": "",
+   "batch": 9,
+   "lists": 9,
+   "score": 8.5,
+   "zipf": 2.14
+  },
+  "salubrious": {
+   "pos": "adj.",
+   "definition": "health-giving; healthy",
+   "synonyms": [
+    "healthful",
+    "wholesome",
+    "beneficial"
+   ],
+   "example": "The doctor recommended a stay in the salubrious mountain air.",
+   "note": "",
+   "batch": 9,
+   "lists": 5,
+   "score": 5.5,
+   "zipf": 2.13
+  },
+  "garrulous": {
+   "pos": "adj.",
+   "definition": "excessively talkative, especially about trivial matters",
+   "synonyms": [
+    "talkative",
+    "loquacious",
+    "voluble"
+   ],
+   "example": "The garrulous neighbor talked for an hour about her cat.",
+   "note": "",
+   "batch": 9,
+   "lists": 8,
+   "score": 8.0,
+   "zipf": 2.11
+  },
+  "loquacious": {
+   "pos": "adj.",
+   "definition": "tending to talk a great deal",
+   "synonyms": [
+    "talkative",
+    "garrulous",
+    "voluble"
+   ],
+   "example": "After a coffee or two, he became loquacious.",
+   "note": "",
+   "batch": 9,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 2.11
+  },
+  "obviate": {
+   "pos": "v.",
+   "definition": "to make unnecessary; to prevent or remove (a difficulty) in advance",
+   "synonyms": [
+    "preclude",
+    "forestall",
+    "avert"
+   ],
+   "example": "The new software obviates the need for manual data entry.",
+   "note": "",
+   "batch": 9,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.11
+  },
+  "opprobrium": {
+   "pos": "n.",
+   "definition": "harsh public criticism or disgrace arising from shameful conduct",
+   "synonyms": [
+    "disgrace",
+    "censure",
+    "infamy"
+   ],
+   "example": "The company faced public opprobrium after the scandal.",
+   "note": "",
+   "batch": 9,
+   "lists": 5,
+   "score": 5.5,
+   "zipf": 2.11
+  },
+  "desultory": {
+   "pos": "adj.",
+   "definition": "lacking a plan or purpose; jumping from one thing to another",
+   "synonyms": [
+    "aimless",
+    "haphazard",
+    "random"
+   ],
+   "example": "They made desultory conversation while waiting for the train.",
+   "note": "",
+   "batch": 9,
+   "lists": 5,
+   "score": 5.5,
+   "zipf": 2.1
+  },
+  "diffident": {
+   "pos": "adj.",
+   "definition": "modest or shy because of a lack of self-confidence",
+   "synonyms": [
+    "timid",
+    "bashful",
+    "unassertive"
+   ],
+   "example": "The diffident young scholar hesitated to share his ideas.",
+   "note": "",
+   "batch": 9,
+   "lists": 9,
+   "score": 8.5,
+   "zipf": 2.1
+  },
+  "soporific": {
+   "pos": "adj.",
+   "definition": "tending to induce drowsiness or sleep (n.: a sleep-inducing drug)",
+   "synonyms": [
+    "sleep-inducing",
+    "sedative",
+    "somnolent"
+   ],
+   "example": "The lecture was so soporific that half the audience dozed.",
+   "note": "",
+   "batch": 9,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 2.1
+  },
+  "penury": {
+   "pos": "n.",
+   "definition": "extreme poverty",
+   "synonyms": [
+    "destitution",
+    "poverty",
+    "indigence"
+   ],
+   "example": "After the business failed, he lived in penury.",
+   "note": "",
+   "batch": 9,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.09
+  },
+  "perfidious": {
+   "pos": "adj.",
+   "definition": "deceitful and untrustworthy; guilty of betrayal",
+   "synonyms": [
+    "treacherous",
+    "faithless",
+    "traitorous"
+   ],
+   "example": "The perfidious ally secretly signed a treaty with the enemy.",
+   "note": "",
+   "batch": 9,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.09
+  },
+  "officious": {
+   "pos": "adj.",
+   "definition": "assertive in offering unwanted help or authority; meddlesome",
+   "synonyms": [
+    "meddlesome",
+    "intrusive",
+    "interfering"
+   ],
+   "example": "An officious clerk insisted on checking forms that no one had asked him to check.",
+   "note": "",
+   "batch": 9,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.08
+  },
+  "abscond": {
+   "pos": "v.",
+   "definition": "to leave hurriedly and secretly, typically to avoid arrest or to take something",
+   "synonyms": [
+    "flee",
+    "decamp",
+    "bolt"
+   ],
+   "example": "The cashier absconded with the day's receipts.",
+   "note": "",
+   "batch": 9,
+   "lists": 6,
+   "score": 5.0,
+   "zipf": 2.07
+  },
+  "harangue": {
+   "pos": "n./v.",
+   "definition": "a lengthy, aggressive, ranting speech; to lecture at length in that manner",
+   "synonyms": [
+    "tirade",
+    "diatribe",
+    "lecture"
+   ],
+   "example": "The coach harangued his players for an hour after the loss.",
+   "note": "",
+   "batch": 9,
+   "lists": 8,
+   "score": 8.0,
+   "zipf": 2.07
+  },
+  "inundate": {
+   "pos": "v.",
+   "definition": "to flood; to overwhelm with a large quantity",
+   "synonyms": [
+    "flood",
+    "deluge",
+    "swamp"
+   ],
+   "example": "After the broadcast, the station was inundated with calls.",
+   "note": "",
+   "batch": 9,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.07
+  },
+  "phlegmatic": {
+   "pos": "adj.",
+   "definition": "having a calm, unemotional temperament",
+   "synonyms": [
+    "stoic",
+    "impassive",
+    "unflappable"
+   ],
+   "example": "The phlegmatic captain showed no fear as the storm approached.",
+   "note": "",
+   "batch": 9,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 2.07
+  },
+  "inchoate": {
+   "pos": "adj.",
+   "definition": "only partly formed; just beginning, undeveloped",
+   "synonyms": [
+    "incipient",
+    "rudimentary",
+    "embryonic"
+   ],
+   "example": "Her ideas were still inchoate and needed more work.",
+   "note": "",
+   "batch": 9,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 2.06
+  },
+  "mendacious": {
+   "pos": "adj.",
+   "definition": "not telling the truth; lying",
+   "synonyms": [
+    "lying",
+    "dishonest",
+    "untruthful"
+   ],
+   "example": "The mendacious witness was caught in a web of contradictions.",
+   "note": "",
+   "batch": 9,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 2.06
+  },
+  "burnish": {
+   "pos": "v.",
+   "definition": "to polish by rubbing; to improve (a reputation or image)",
+   "synonyms": [
+    "polish",
+    "shine",
+    "buff"
+   ],
+   "example": "The mayor tried to burnish his image with a charity campaign.",
+   "note": "",
+   "batch": 9,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.04
+  },
+  "mollify": {
+   "pos": "v.",
+   "definition": "to soothe the anger or anxiety of",
+   "synonyms": [
+    "appease",
+    "placate",
+    "soothe"
+   ],
+   "example": "The waiter offered free dessert to mollify the disgruntled diners.",
+   "note": "",
+   "batch": 9,
+   "lists": 9,
+   "score": 8.5,
+   "zipf": 2.04
+  },
+  "disabuse": {
+   "pos": "v.",
+   "definition": "to free someone from a mistaken belief",
+   "synonyms": [
+    "enlighten",
+    "undeceive",
+    "correct"
+   ],
+   "example": "Let me disabuse you of the notion that the exam will be easy.",
+   "note": "",
+   "batch": 9,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 2.01
+  },
+  "obdurate": {
+   "pos": "adj.",
+   "definition": "stubbornly refusing to change one's mind or course of action",
+   "synonyms": [
+    "stubborn",
+    "adamant",
+    "inflexible"
+   ],
+   "example": "The obdurate chairman ignored every plea to reconsider.",
+   "note": "",
+   "batch": 9,
+   "lists": 9,
+   "score": 8.0,
+   "zipf": 2.01
+  },
+  "stolid": {
+   "pos": "adj.",
+   "definition": "calm, dependable, showing little emotion or excitement",
+   "synonyms": [
+    "impassive",
+    "unemotional",
+    "phlegmatic"
+   ],
+   "example": "The stolid guard did not flinch at the insults.",
+   "note": "",
+   "batch": 9,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 2.01
+  },
+  "truculent": {
+   "pos": "adj.",
+   "definition": "eager or quick to argue or fight; defiantly aggressive",
+   "synonyms": [
+    "belligerent",
+    "combative",
+    "pugnacious"
+   ],
+   "example": "The truculent customer slammed the counter and demanded a manager.",
+   "note": "",
+   "batch": 10,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 2.01
+  },
+  "calumny": {
+   "pos": "n.",
+   "definition": "a false statement made to damage someone's reputation",
+   "synonyms": [
+    "slander",
+    "defamation",
+    "libel"
+   ],
+   "example": "He sued the newspaper over its calumny against him.",
+   "note": "",
+   "batch": 10,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 1.97
+  },
+  "idiosyncrasy": {
+   "pos": "n.",
+   "definition": "a peculiar habit or characteristic specific to an individual",
+   "synonyms": [
+    "quirk",
+    "eccentricity",
+    "peculiarity"
+   ],
+   "example": "One of his idiosyncrasies was refusing to eat anything green.",
+   "note": "",
+   "batch": 10,
+   "lists": 6,
+   "score": 5.0,
+   "zipf": 1.95
+  },
+  "effrontery": {
+   "pos": "n.",
+   "definition": "insolent, shameless boldness",
+   "synonyms": [
+    "audacity",
+    "impudence",
+    "gall"
+   ],
+   "example": "She had the effrontery to ask for a raise on her first day.",
+   "note": "",
+   "batch": 10,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 1.94
+  },
+  "castigate": {
+   "pos": "v.",
+   "definition": "to reprimand or criticize severely",
+   "synonyms": [
+    "scold",
+    "berate",
+    "chastise"
+   ],
+   "example": "The coach castigated the team for their lack of effort.",
+   "note": "",
+   "batch": 10,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 1.92
+  },
+  "ingenuous": {
+   "pos": "adj.",
+   "definition": "innocent, trusting, and candid",
+   "synonyms": [
+    "naive",
+    "artless",
+    "guileless"
+   ],
+   "example": "His ingenuous questions revealed that he knew nothing of the city's politics.",
+   "note": "Opposite of disingenuous. Not the same as ingenious (clever).",
+   "batch": 10,
+   "lists": 6,
+   "score": 5.0,
+   "zipf": 1.92
+  },
+  "imperturbable": {
+   "pos": "adj.",
+   "definition": "unable to be upset or excited; calm",
+   "synonyms": [
+    "unflappable",
+    "serene",
+    "composed"
+   ],
+   "example": "The imperturbable pilot calmly steered the plane through turbulence.",
+   "note": "",
+   "batch": 10,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 1.9
+  },
+  "dissemble": {
+   "pos": "v.",
+   "definition": "to hide one's true feelings or intentions; to disguise",
+   "synonyms": [
+    "feign",
+    "dissimulate",
+    "pretend"
+   ],
+   "example": "She dissembled her fear behind a polite smile.",
+   "note": "Not the same as disassemble (take apart).",
+   "batch": 10,
+   "lists": 8,
+   "score": 6.0,
+   "zipf": 1.86
+  },
+  "dilatory": {
+   "pos": "adj.",
+   "definition": "slow to act; intended to delay",
+   "synonyms": [
+    "tardy",
+    "sluggish",
+    "laggard"
+   ],
+   "example": "The dilatory clerk took weeks to process a simple form.",
+   "note": "",
+   "batch": 10,
+   "lists": 5,
+   "score": 5.0,
+   "zipf": 1.83
+  },
+  "abjure": {
+   "pos": "v.",
+   "definition": "to solemnly renounce or reject (a belief or claim)",
+   "synonyms": [
+    "renounce",
+    "forswear",
+    "recant"
+   ],
+   "example": "He abjured violence and became a pacifist.",
+   "note": "",
+   "batch": 10,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 1.82
+  },
+  "occlude": {
+   "pos": "v.",
+   "definition": "to block or obstruct",
+   "synonyms": [
+    "block",
+    "obstruct",
+    "clog"
+   ],
+   "example": "A blood clot occluded the artery.",
+   "note": "",
+   "batch": 10,
+   "lists": 5,
+   "score": 5.5,
+   "zipf": 1.8
+  },
+  "demur": {
+   "pos": "v.",
+   "definition": "to raise objections or show reluctance",
+   "synonyms": [
+    "object",
+    "balk",
+    "take exception"
+   ],
+   "example": "When asked to work on Sunday, he demurred.",
+   "note": "",
+   "batch": 10,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 1.78
+  },
+  "vacillate": {
+   "pos": "v.",
+   "definition": "to waver between different opinions or actions",
+   "synonyms": [
+    "waver",
+    "dither",
+    "hesitate"
+   ],
+   "example": "She vacillated between accepting the job and staying put.",
+   "note": "",
+   "batch": 10,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 1.77
+  },
+  "munificent": {
+   "pos": "adj.",
+   "definition": "very generous; larger or more generous than usual",
+   "synonyms": [
+    "generous",
+    "lavish",
+    "bountiful"
+   ],
+   "example": "A munificent donor funded the new library.",
+   "note": "",
+   "batch": 10,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 1.76
+  },
+  "recondite": {
+   "pos": "adj.",
+   "definition": "little known; dealing with profound or obscure subject matter",
+   "synonyms": [
+    "obscure",
+    "abstruse",
+    "esoteric"
+   ],
+   "example": "The treatise was so recondite that only a handful of scholars could read it.",
+   "note": "",
+   "batch": 10,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 1.73
+  },
+  "equivocate": {
+   "pos": "v.",
+   "definition": "to use ambiguous language so as to avoid commitment or conceal the truth",
+   "synonyms": [
+    "hedge",
+    "waffle",
+    "evade"
+   ],
+   "example": "Pressed on the tax rise, the minister equivocated.",
+   "note": "",
+   "batch": 10,
+   "lists": 8,
+   "score": 7.5,
+   "zipf": 1.72
+  },
+  "burgeon": {
+   "pos": "v.",
+   "definition": "to grow or increase rapidly; flourish",
+   "synonyms": [
+    "flourish",
+    "mushroom",
+    "proliferate"
+   ],
+   "example": "The city's tech sector burgeoned in the 2010s.",
+   "note": "",
+   "batch": 10,
+   "lists": 9,
+   "score": 8.0,
+   "zipf": 1.65
+  },
+  "exculpate": {
+   "pos": "v.",
+   "definition": "to show or declare that someone is not guilty",
+   "synonyms": [
+    "exonerate",
+    "absolve",
+    "vindicate"
+   ],
+   "example": "The evidence exculpated the accused.",
+   "note": "",
+   "batch": 10,
+   "lists": 6,
+   "score": 6.0,
+   "zipf": 1.65
+  },
+  "prevaricate": {
+   "pos": "v.",
+   "definition": "to speak or act evasively; to stretch the truth",
+   "synonyms": [
+    "equivocate",
+    "evade",
+    "hedge"
+   ],
+   "example": "Rather than admit his error, he prevaricated.",
+   "note": "",
+   "batch": 10,
+   "lists": 7,
+   "score": 7.0,
+   "zipf": 1.58
+  },
+  "gainsay": {
+   "pos": "v.",
+   "definition": "to deny or contradict",
+   "synonyms": [
+    "deny",
+    "contradict",
+    "dispute"
+   ],
+   "example": "No one could gainsay the accuracy of her statistics.",
+   "note": "",
+   "batch": 10,
+   "lists": 7,
+   "score": 5.5,
+   "zipf": 1.54
+  },
+  "propitiate": {
+   "pos": "v.",
+   "definition": "to win or regain the favor of (an angry person or god) by doing something pleasing",
+   "synonyms": [
+    "appease",
+    "placate",
+    "conciliate"
+   ],
+   "example": "Ancient farmers offered sacrifices to propitiate the gods of the harvest.",
+   "note": "",
+   "batch": 10,
+   "lists": 7,
+   "score": 6.5,
+   "zipf": 1.53
+  },
+  "upbraid": {
+   "pos": "v.",
+   "definition": "to scold or criticize sharply",
+   "synonyms": [
+    "scold",
+    "reprimand",
+    "berate"
+   ],
+   "example": "The manager upbraided the intern for missing the deadline.",
+   "note": "",
+   "batch": 10,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 1.45
+  },
+  "desiccate": {
+   "pos": "v.",
+   "definition": "to remove moisture from; to dry out completely",
+   "synonyms": [
+    "dehydrate",
+    "parch",
+    "dry"
+   ],
+   "example": "The desert wind desiccated the fruit.",
+   "note": "",
+   "batch": 10,
+   "lists": 5,
+   "score": 5.5,
+   "zipf": 1.38
+  },
+  "enervate": {
+   "pos": "v.",
+   "definition": "to drain of energy or vitality; to weaken",
+   "synonyms": [
+    "exhaust",
+    "debilitate",
+    "sap"
+   ],
+   "example": "The long heat wave enervated the whole town.",
+   "note": "Looks like \"energize\" but means the opposite.",
+   "batch": 10,
+   "lists": 8,
+   "score": 6.0,
+   "zipf": 1.26
+  },
+  "sedulous": {
+   "pos": "adj.",
+   "definition": "showing dedication and diligence; persevering",
+   "synonyms": [
+    "diligent",
+    "assiduous",
+    "industrious"
+   ],
+   "example": "The sedulous researcher rechecked each figure three times.",
+   "note": "",
+   "batch": 10,
+   "lists": 6,
+   "score": 5.5,
+   "zipf": 0.0
+  }
+ }
+}
